@@ -34,6 +34,10 @@ Download and install part 1 with vortex normally, manually download and extract 
 https://www.nexusmods.com/skyrimspecialedition/mods/32444  
 All in one
    
+### Unofficial Skyrim Special Edition Patch
+https://www.nexusmods.com/skyrimspecialedition/mods/266    
+Unofficial Skyrim Special Edition Patch
+
 ### The Book of UUNP Volumes 1 2 and 3 - UNP - Sevenbase - UNPB
 https://www.nexusmods.com/skyrimspecialedition/mods/7505          
 The Book of UUNP-SSE           
@@ -55,3 +59,16 @@ https://www.nexusmods.com/skyrimspecialedition/mods/5804
 https://www.nexusmods.com/skyrimspecialedition/mods/1469      
 Acquisitive Soul Gems Multithreaded
    
+### AI Overhaul SSE   
+https://www.nexusmods.com/skyrimspecialedition/mods/21654       
+AI Overhaul 1.6.4      
+
+### Open Cities Skyrim - SSE
+https://www.nexusmods.com/skyrimspecialedition/mods/281
+Open Cities Skyrim       
+
+### AI Overhaul - Open Cities Compatibility
+https://www.nexusmods.com/skyrimspecialedition/mods/38031      
+AI Overhaul - Open Cities       
+
+
