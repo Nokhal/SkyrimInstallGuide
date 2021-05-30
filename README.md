@@ -155,6 +155,11 @@ AI Overhaul 1.6.4 =
 https://www.nexusmods.com/skyrimspecialedition/mods/38031      
 AI Overhaul - Open Cities       
 
+### Touring Carriages SE
+https://www.nexusmods.com/skyrimspecialedition/mods/15948
+Touring Carriages
+
+
 ### Immersive Amazing Follower Tweaks SE
 https://www.nexusmods.com/skyrimspecialedition/mods/14722   
 Immersive Amazing Follower Tweaks SE      
