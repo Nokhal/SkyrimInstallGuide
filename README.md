@@ -214,6 +214,18 @@ Diverse Dragons Collection SE
 https://www.nexusmods.com/skyrimspecialedition/mods/33746   
 DynamicAnimationReplacer v1.1.0 for SkyrimSE
 
+### RaceMenu
+https://www.nexusmods.com/skyrimspecialedition/mods/19080   
+RaceMenu Special Edition v0-4-16   
+   
+### Expressive Facegen Morphs SE 
+https://www.nexusmods.com/skyrimspecialedition/mods/35785   
+Expressive Facegen Morphs SE   
+
+### Expressive Facial Animation -Female Edition-   
+https://www.nexusmods.com/skyrimspecialedition/mods/19181   
+Expressive Facial Animation - Female Edition
+
 
 
 
