@@ -3,7 +3,9 @@
 Goal : Lore friendly, lots of content, babes you can shag, no HP sponge all build are valid combat but you are still gonna die from time to time.           
 By combining MLU, Ordinator, Wildcat and an explosive player power gain trough unccapper, players start weak but able to tackle the first few dungeons if they are careful while endgame progress will not slow down to a crawl and will not require resetting skills. 
            
-Updated : 2021-05-30            
+Updated : 2021-05-30           
+
+Notes : Mods are in the order they need to override each others files. See at the bottom for load order.
 
 ## Prerequisite
 
@@ -95,6 +97,35 @@ Andromeda 1.1.2
 https://www.nexusmods.com/skyrimspecialedition/mods/1090    
 Apocalypse 9.45.0   
 Apocalypse - Ordinator Compatibility Patch
+
+### Aumriel - The Pale Lady   
+https://www.nexusmods.com/skyrimspecialedition/mods/24161   
+Aumriel - RDO SE   
+
+### Static Mesh Improvement Mod - SMIM 
+https://www.nexusmods.com/skyrimspecialedition/mods/659   
+SMIM SE 2-08
+
+### High Poly Project
+https://www.nexusmods.com/skyrimspecialedition/mods/12029
+High Poly Project
+
+### Skyrim 2018 by Pfuscher
+https://www.nexusmods.com/skyrimspecialedition/mods/20146
+Skyrim 2018
+Bugfixes 1.5
+Bugfixes 1.6
+
+### Skyrim 2020 Parallax by Pfuscher
+A. Skyrim 2020 - Part I - Highest Quality
+A. Skyrim 2020 - Part II - Highest Quality
+A. Skyrim 2020 - Part I - Highest Quality - Green Caves
+7 Mountain Textures - with FOMod installer
+Blended Roads Retexture
+Whiterun Street - Alternative 2
+
+
+
 
 
 
