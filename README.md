@@ -227,6 +227,10 @@ Simple Load Screens
 https://www.nexusmods.com/skyrimspecialedition/mods/659   
 SMIM SE 2-08  => Everything
 
+### Blended Roads
+https://www.nexusmods.com/skyrimspecialedition/mods/8834
+Blended Roads
+
 ### High Poly Project
 https://www.nexusmods.com/skyrimspecialedition/mods/12029   
 High Poly Project => Everything, no patch
