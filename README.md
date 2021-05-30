@@ -317,7 +317,7 @@ Patch - Awesome Potions
 Patch - Summermyst   
 
 ### Weapons Armor Clothing and Clutter Fixes
-https://www.nexusmods.com/skyrimspecialedition/mods/18994
+https://www.nexusmods.com/skyrimspecialedition/mods/18994          
 Weapons Armor Clothing and Clutter Fixes
 
 ### Weapons Armor Clothing and Clutter Fixes (WACCF) and Summermyst Enchantments Patch
@@ -329,7 +329,7 @@ https://www.nexusmods.com/skyrimspecialedition/mods/1368
 Wildcat v700
 
 ### Zim's Immersive Artifacts - WACCF Patch
-https://www.nexusmods.com/skyrimspecialedition/mods/19489
+https://www.nexusmods.com/skyrimspecialedition/mods/19489            
 Zim's Immersive Artifacts - Weapons Armor Clothing and Clutter Fixes Patch
 
 ### Legacy of the Dragonborn SSE   
