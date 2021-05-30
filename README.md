@@ -206,19 +206,6 @@ Aumriel - RDO SE
 https://www.nexusmods.com/skyrimspecialedition/mods/13389   
 CaesiaSE   
 
-### Seductress Faye - Custom voiced FG Follower.
-https://www.nexusmods.com/skyrimspecialedition/mods/20185   
-Seductress Faye - SE - FG   
-
-### Sofia - The Funny Fully Voiced Follower   
-https://www.nexusmods.com/skyrimspecialedition/mods/2180   
-Sofia Follower v.2.51 (BSA)   
-
-### Sofia - The Funny Fully Voiced Follower - High Poly Heads Replacer
-https://www.nexusmods.com/skyrimspecialedition/mods/42420   
-Sofia The Funny Fully Voiced Follower - High Poly Heads - ESL   
-Sofia Follower High Poly Heads-Sofia Alt Hair-Blond - Overwrite when asked   
-
 ### Simple Load Screens   
 https://www.nexusmods.com/skyrimspecialedition/mods/49529      
 Simple Load Screens   
@@ -519,6 +506,19 @@ Sybille Awakened.7z
 ### Nether's Karliah
 https://www.nexusmods.com/skyrimspecialedition/mods/49334   
 Nether's Karliah - Universal Installer (LE or SSE)   
+
+### Seductress Faye - Custom voiced FG Follower.
+https://www.nexusmods.com/skyrimspecialedition/mods/20185   
+Seductress Faye - SE - FG   
+
+### Sofia - The Funny Fully Voiced Follower   
+https://www.nexusmods.com/skyrimspecialedition/mods/2180   
+Sofia Follower v.2.51 (BSA)   
+
+### Sofia - The Funny Fully Voiced Follower - High Poly Heads Replacer
+https://www.nexusmods.com/skyrimspecialedition/mods/42420   
+Sofia The Funny Fully Voiced Follower - High Poly Heads - ESL   
+Sofia Follower High Poly Heads-Sofia Alt Hair-Blond - Overwrite when asked   
 
 ### XP32 Maximum Skeleton Special Extended - XPMSSE
 https://www.nexusmods.com/skyrimspecialedition/mods/1988
