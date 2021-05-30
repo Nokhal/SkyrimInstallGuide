@@ -267,6 +267,8 @@ Skyrim 2020 Parallax by Pfuscher - Whiterun Street - Alternative 2
 https://www.nexusmods.com/skyrimspecialedition/mods/8004   
 Prisoner Cart Fix SSE   
 
+Solve conflicts by Clicking Afer All for file Prisoner Cart Fix SSE  
+
 ### XxAwesome_PotionsxX SSE   
 https://www.nexusmods.com/skyrimspecialedition/mods/5077/   
 XxAWESOME_POTIONSxX XL   
@@ -578,6 +580,7 @@ A. Skyrim 2020 - Part II - Highest Quality
 A. Skyrim 2020 - Part I - Highest Quality - Green Caves    
 Skyrim 2020 Parallax by Pfuscher Blended Roads Retexture   
 Skyrim 2020 Parallax by Pfuscher - Whiterun Street - Alternative 2    
+Prisoner Cart Fix SSE   
     
 # Todo 
 Install the two patched provided here
