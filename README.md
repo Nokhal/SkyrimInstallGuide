@@ -71,4 +71,16 @@ Open Cities Skyrim
 https://www.nexusmods.com/skyrimspecialedition/mods/38031      
 AI Overhaul - Open Cities       
 
+### Immersive Amazing Follower Tweaks SE
+https://www.nexusmods.com/skyrimspecialedition/mods/14722   
+Immersive Amazing Follower Tweaks SE      
+USSEP and DLC Patch    
+Cicero Dances Patch
+
+### Relationship Dialogue Overhaul - RDO SE
+https://www.nexusmods.com/skyrimspecialedition/mods/1187          
+Relationship Dialogue Overhaul - RDO Final   
+RDO - CRF and USSEP Patches Final   
+RDO - iAFT SE Patch Final   
+
 
