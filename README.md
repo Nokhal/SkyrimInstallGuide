@@ -49,15 +49,12 @@ https://www.nexusmods.com/skyrimspecialedition/mods/281
 Open Cities Skyrim    
 
 ### Castle Volkihar Rebuilt - SSE
-https://www.nexusmods.com/skyrimspecialedition/mods/324   
+https://www.nexusmods.com/skyrimspecialedition/mods/324       
 Castle Volkihar Rebuilt   
 
-### The Book of UUNP Volumes 1 2 and 3 - UNP - Sevenbase - UNPB
-https://www.nexusmods.com/skyrimspecialedition/mods/7505          
-The Book of UUNP-SSE           
-Missing DBboots Texture             
-01 - The Book of UUNP - SSE UNP meshes         
-03 - The Book of UUNP - Waylanders No Skimpy Patch                
+### Dawnguard Map Markers   
+https://www.nexusmods.com/skyrimspecialedition/mods/20931   
+Dawnguard Map Markers               
 
 ### Ordinator - Perks of Skyrim
 https://www.nexusmods.com/skyrimspecialedition/mods/1137         
@@ -94,7 +91,7 @@ RDO - CRF and USSEP Patches Final
 RDO - iAFT SE Patch Final   
 
 ### what777's Castle Volkihar Rebuilt Patches
-https://www.nexusmods.com/skyrimspecialedition/mods/45796
+https://www.nexusmods.com/skyrimspecialedition/mods/45796    
 Castle Volkihar Rebuilt - Relationship Dialogue Overhaul Patch
 
 ### Andromeda - Unique Standing Stones of Skyrim
@@ -119,17 +116,17 @@ https://www.nexusmods.com/skyrimspecialedition/mods/659
 SMIM SE 2-08
 
 ### High Poly Project
-https://www.nexusmods.com/skyrimspecialedition/mods/12029
+https://www.nexusmods.com/skyrimspecialedition/mods/12029   
 High Poly Project
 
 ### Skyrim 2018 by Pfuscher
-https://www.nexusmods.com/skyrimspecialedition/mods/20146
+https://www.nexusmods.com/skyrimspecialedition/mods/20146    
 Skyrim 2018
 Bugfixes 1.5
 Bugfixes 1.6
 
 ### Skyrim 2020 Parallax by Pfuscher 
-https://www.nexusmods.com/skyrimspecialedition/mods/2347?tab=files   
+https://www.nexusmods.com/skyrimspecialedition/mods/2347   
 A. Skyrim 2020 - Part I - Highest Quality        
 A. Skyrim 2020 - Part II - Highest Quality   
 A. Skyrim 2020 - Part I - Highest Quality - Green Caves   
@@ -174,11 +171,36 @@ UNP Female Body Renewal 4.6
 https://www.nexusmods.com/skyrimspecialedition/mods/20078   
 Bijin Skin UNP   
 
+### The Book of UUNP Volumes 1 2 and 3 - UNP - Sevenbase - UNPB
+https://www.nexusmods.com/skyrimspecialedition/mods/7505          
+The Book of UUNP-SSE           
+Missing DBboots Texture             
+01 - The Book of UUNP - SSE UNP meshes         
+03 - The Book of UUNP - Waylanders No Skimpy Patch    
 
+### Even Better Quest Objectives SE - EBQO SE
+https://www.nexusmods.com/skyrimspecialedition/mods/159   
+Even Better Quest Objectives SE v1.8.4   
 
+### Finding Derkeethus
+https://www.nexusmods.com/skyrimspecialedition/mods/19550?   
+Finding Derkeethus   
 
+### Cicero Female SE
+https://www.nexusmods.com/skyrimspecialedition/mods/5212   
+Cicero Female SE   
 
+### Cicera - Female Cicero Dialogue Edit   
+https://www.nexusmods.com/skyrimspecialedition/mods/43990   
+Cicera - Female Cicero Dialogue Edit     
+Cicera Dialog Edit - CRF Patch   
+Cicera Dialog Edit - Even Better Quest Objectives Patch   
+Cicera Dialog Edit - LotD Patch   
+Cicera Dialog Edit - USSEP Patch    
 
+### Diverse Dragons Collection SE (DDCse)
+https://www.nexusmods.com/skyrimspecialedition/mods/695   
+Diverse Dragons Collection SE   
 
 
 
