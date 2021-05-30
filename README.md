@@ -150,3 +150,23 @@ https://www.nexusmods.com/skyrimspecialedition/mods/13027
 Seranaholic SSE 1.8   
 Valerica SSE   
 
+### Bijin All in One 2020
+https://www.nexusmods.com/skyrimspecialedition/mods/11      
+Bijin AIO 2020 - Serana Valerica - AI Overhaul   
+
+
+
+
+
+
+
+
+
+# End setup
+
+The following ESPs are to be disabled or deleted from your /data folder. (I recommend deletion) There is no benefit to leaving these esps in your data folder.      
+Bijin Warmaidens.esp   
+Bijin Wives.esp   
+Bijin NPCs.esp   
+Serana.esp   
+Valerica.esp   
