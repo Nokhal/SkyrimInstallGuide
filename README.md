@@ -81,6 +81,10 @@ PapyrusUtil SE - Scripting Utility Functions
 https://www.nexusmods.com/skyrimspecialedition/mods/12604   
 SkyUI_5_2_SE   
 
+### SkyUI SE - Flashing Savegames Fix
+https://www.nexusmods.com/skyrimspecialedition/mods/20406/   
+SkyUI SE - Flashing Savegames Fix   
+
 ### Unofficial Skyrim Special Edition Patch
 https://www.nexusmods.com/skyrimspecialedition/mods/266    
 Unofficial Skyrim Special Edition Patch
