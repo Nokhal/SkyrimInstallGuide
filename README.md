@@ -277,16 +277,20 @@ XxAWESOME_POTIONSxX XL
 https://www.nexusmods.com/skyrimspecialedition/mods/8889/   
 Skyrim Skill Uncapper   
 
-### Unique Uniques SE    
-https://www.nexusmods.com/skyrimspecialedition/mods/3334/    
-Unique Uniques SE
+### LeanWolf's Better-Shaped Weapons SE
+https://www.nexusmods.com/skyrimspecialedition/mods/2017   
+LeanWolfs Better-Shaped Weapons Installer v2.1.03 SE   
+
+Install Everything, All options, No patches, Reflective Glass, Refractive Stalhrim, Dwarven Dawnbreaker, Default for other options.
 
 ### Zim's Immersive Artifacts
 https://www.nexusmods.com/skyrimspecialedition/mods/9138   
 Zim's Immersive Artifacts V1.6.2  => All artifacts; Chillrend: Better Shaped Weapon; Ebony Mail: Dark details; Mace of Molag Baal: Purple; Volendrung: Green Glow
 ZIA White Phial Fix    
     
-Solve conflict by clicking on Zim's Immersive Artifacts - ZIA White Phial Fix    After all    
+Solve conflict by clicking on After all on 
+Zim's Immersive Artifacts - V1.6.2
+Zim's Immersive Artifacts - ZIA White Phial Fix    
 
 ### Summermyst - Enchantments of Skyrim
 https://www.nexusmods.com/skyrimspecialedition/mods/6285/
@@ -306,7 +310,6 @@ MLU - Immersive Armors
 MLU - Lore Weapon Expansion - LOTD Version    
 MLU - AI Overhaul-ESL    
 MLU - Summermyst - Enchantments of Skyrim    
-MLU - Unique Uniques-ESL    
 MLU - Zim's Immersive Artifacts-ESL    
 
 ### Skyrim Alchemy Fixed   
@@ -342,9 +345,6 @@ Legacy of the Dragonborn
 https://www.nexusmods.com/skyrimspecialedition/mods/31272   
 LOTD - OCS Patch   
 
-### LeanWolf's Better-Shaped Weapons SE
-https://www.nexusmods.com/skyrimspecialedition/mods/2017   
-LeanWolfs Better-Shaped Weapons Installer v2.1.03 SE   
 
 ### Gildergreen Regrown   
 https://www.nexusmods.com/skyrimspecialedition/mods/348    
@@ -592,6 +592,7 @@ A. Skyrim 2020 - Part I - Highest Quality - Green Caves
 Skyrim 2020 Parallax by Pfuscher Blended Roads Retexture   
 Skyrim 2020 Parallax by Pfuscher - Whiterun Street - Alternative 2    
 Prisoner Cart Fix SSE    
+LeanWolfs Better-Shaped Weapons Installer v2.1.03 SE
 Zim's Immersive Artifacts v 1.6.2   
 Zim's Immersive Artifacts - ZIA White Phial Fix    
     
@@ -611,7 +612,5 @@ RDO - USSEP Patch.esp
 Lore Weapon Expansion - Relics of the Crusader.esp
 Lore Weapon Expansion - Goldbrand.esp
 Lore Weapon Expansion - Daedric Crescent.esp
-Uniques Uniques.exp
-
 
 Run Fnis
