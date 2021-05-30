@@ -45,8 +45,12 @@ https://www.nexusmods.com/skyrimspecialedition/mods/276
 Cutting Room Floor
 
 ### Open Cities Skyrim - SSE
-https://www.nexusmods.com/skyrimspecialedition/mods/281
-Open Cities Skyrim   
+https://www.nexusmods.com/skyrimspecialedition/mods/281   
+Open Cities Skyrim    
+
+### Castle Volkihar Rebuilt - SSE
+https://www.nexusmods.com/skyrimspecialedition/mods/324   
+Castle Volkihar Rebuilt   
 
 ### The Book of UUNP Volumes 1 2 and 3 - UNP - Sevenbase - UNPB
 https://www.nexusmods.com/skyrimspecialedition/mods/7505          
@@ -89,6 +93,10 @@ Relationship Dialogue Overhaul - RDO Final
 RDO - CRF and USSEP Patches Final   
 RDO - iAFT SE Patch Final   
 
+### what777's Castle Volkihar Rebuilt Patches
+https://www.nexusmods.com/skyrimspecialedition/mods/45796
+Castle Volkihar Rebuilt - Relationship Dialogue Overhaul Patch
+
 ### Andromeda - Unique Standing Stones of Skyrim
 https://www.nexusmods.com/skyrimspecialedition/mods/14910   
 Andromeda 1.1.2         
@@ -101,6 +109,10 @@ Apocalypse - Ordinator Compatibility Patch
 ### Aumriel - The Pale Lady   
 https://www.nexusmods.com/skyrimspecialedition/mods/24161   
 Aumriel - RDO SE   
+
+### Caesia Follower - Borne of Magic - Revamped
+https://www.nexusmods.com/skyrimspecialedition/mods/13389   
+CaesiaSE   
 
 ### Static Mesh Improvement Mod - SMIM 
 https://www.nexusmods.com/skyrimspecialedition/mods/659   
@@ -153,6 +165,14 @@ Valerica SSE
 ### Bijin All in One 2020
 https://www.nexusmods.com/skyrimspecialedition/mods/11      
 Bijin AIO 2020 - Serana Valerica - AI Overhaul   
+
+### UNP Female Body Renewal - A female face and body replacer
+https://www.nexusmods.com/skyrimspecialedition/mods/1699   
+UNP Female Body Renewal 4.6   
+
+### Bijin Skin UNP and CBBE SE   
+https://www.nexusmods.com/skyrimspecialedition/mods/20078   
+Bijin Skin UNP   
 
 
 
