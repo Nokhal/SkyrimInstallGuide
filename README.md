@@ -145,7 +145,7 @@ The Forgotten City
    
 ### AI Overhaul SSE   
 https://www.nexusmods.com/skyrimspecialedition/mods/21654       
-AI Overhaul 1.6.4          
+AI Overhaul 1.6.4 =         
 
 ### AI Overhaul - Open Cities Compatibility
 https://www.nexusmods.com/skyrimspecialedition/mods/38031      
@@ -183,15 +183,12 @@ Triumvirate 1.7.0
 
 ### Immersive Armors
 https://www.nexusmods.com/skyrimspecialedition/mods/3479   
-Immersive Armors 8.1 SSE
+Immersive Armors 8.1 SSE => Install UNP support
 
 ### Immersive Patrols SE
 https://www.nexusmods.com/skyrimspecialedition/mods/718   
 Immersive Patrols Lite   
 
-### Immersive Citizens - AI Overhaul SE
-https://www.nexusmods.com/skyrimspecialedition/mods/173    
-Immersive Citizens - AI Overhaul
 
 ### Diversity - A Character Overhaul   
 https://www.nexusmods.com/skyrimspecialedition/mods/5291   
