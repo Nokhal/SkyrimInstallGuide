@@ -21,7 +21,7 @@ Once skyrim has be installed, install vortex and learn how to use it
 https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads
 
 ### FallrimTools - Script cleaner and more
-https://www.nexusmods.com/skyrimspecialedition/mods/5031
+https://www.nexusmods.com/skyrimspecialedition/mods/5031   
 Save cleaner.
            
  ## Mods/tools needing some manual install work 
@@ -69,11 +69,19 @@ Castle Volkihar Rebuilt
 https://www.nexusmods.com/skyrimspecialedition/mods/20931   
 Dawnguard Map Markers               
 
+### Fuz Ro D-oh - Silent Voice
+https://www.nexusmods.com/skyrimspecialedition/mods/15109   
+Fuz Ro D'oh   
+
 ### Ordinator - Perks of Skyrim
 https://www.nexusmods.com/skyrimspecialedition/mods/1137         
 Ordinator 9.30.1 (or later)               
 50 percent More Perk Points         
 Odin - Ordinator Compatibility Patch          
+
+### Growl - Werebeasts of Skyrim
+https://www.nexusmods.com/skyrimspecialedition/mods/31245
+Growl 2.3.0
 
 ### A Quality World Map        
 https://www.nexusmods.com/skyrimspecialedition/mods/5804         
@@ -150,6 +158,10 @@ A. Skyrim 2020 - Part I - Highest Quality - Green Caves
 7 Mountain Textures - with FOMod installer   
 Blended Roads Retexture  
 Whiterun Street - Alternative 2   
+
+### Gildergreen Regrown
+https://www.nexusmods.com/skyrimspecialedition/mods/348    
+Gildergreen Regrown   
 
 ### Stones of Barenziah Quest Markers
 https://www.nexusmods.com/skyrimspecialedition/mods/684   
@@ -258,6 +270,7 @@ FG More Adventures v1.1
 ### FNIS Sexy Move SE
 https://www.nexusmods.com/skyrimspecialedition/mods/13303    
 FNIS Sexy Move SE 7.2   
+   
    
 
 # End setup
