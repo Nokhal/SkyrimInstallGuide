@@ -30,6 +30,15 @@ Save cleaner.
 https://skse.silverlock.org        
 Download the SE version 7z archive, extract next to SkyrimSE.exe. Configure vortex to run it by default.    
 
+### Fores New Idles in Skyrim SE - FNIS SE   
+https://www.nexusmods.com/skyrimspecialedition/mods/3038   
+FNIS Behavior SE 7_6   
+FNIS Creature Pack SE 7.6   
+FNIS Spells SE 7.0    
+   
+Configure it in Vortex, then to run every time the load order is changed.   
+
+
 ### SSE Engine Fixes (skse64 plugin)
 https://www.nexusmods.com/skyrimspecialedition/mods/17230               
 Download and install part 1 with vortex normally, manually download and extract part 2 at the root of your Skyrim folder
@@ -245,6 +254,11 @@ FlowerGirls SE Female Cicero Patch
 ### More Adventures for Flower Girls
 https://www.nexusmods.com/skyrimspecialedition/mods/40029   
 FG More Adventures v1.1   
+
+### FNIS Sexy Move SE
+https://www.nexusmods.com/skyrimspecialedition/mods/13303    
+FNIS Sexy Move SE 7.2   
+   
 
 # End setup
 
