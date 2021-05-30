@@ -124,6 +124,14 @@ https://www.nexusmods.com/skyrimspecialedition/mods/1090
 Apocalypse 9.45.0   
 Apocalypse - Ordinator Compatibility Patch
 
+### Immersive Armors
+https://www.nexusmods.com/skyrimspecialedition/mods/3479
+Immersive Armors 8.1 SSE
+
+### Immersive Citizens - AI Overhaul SE
+https://www.nexusmods.com/skyrimspecialedition/mods/173
+Immersive Citizens - AI Overhaul
+
 ### Diversity - A Character Overhaul   
 Diversity - A Character Overhaul (v3.3crf)   
 Diversity - Valindor missing FaceGenData (3.3)   
@@ -194,50 +202,17 @@ Missing DBboots Texture
 01 - The Book of UUNP - SSE UNP meshes         
 03 - The Book of UUNP - Waylanders No Skimpy Patch    
 
-### Bijin NPCs SE
-https://www.nexusmods.com/skyrimspecialedition/mods/11287    
-Bijin NPCs SE 1.2.1    
-
-### Bijin Warmaidens SE
-https://www.nexusmods.com/skyrimspecialedition/mods/1825   
-Bijin Warmaidens SE v3.1.3    
-
-### Bijin Wives SE
-https://www.nexusmods.com/skyrimspecialedition/mods/11247    
-Bijin Wives SE 1.1.2   
-
-### Seranaholic by rxkx22 - SSE
-https://www.nexusmods.com/skyrimspecialedition/mods/13027     
-Seranaholic SSE 1.8   
-Valerica SSE   
-
-### Bijin All in One 2020
-https://www.nexusmods.com/skyrimspecialedition/mods/11      
-Bijin AIO 2020 - Serana Valerica - AI Overhaul    
-
-### Cicero Female SE
-https://www.nexusmods.com/skyrimspecialedition/mods/5212   
-Cicero Female SE   
-
-### Cicera - Female Cicero Dialogue Edit   
-https://www.nexusmods.com/skyrimspecialedition/mods/43990   
-Cicera - Female Cicero Dialogue Edit     
-Cicera Dialog Edit - CRF Patch   
-Cicera Dialog Edit - Even Better Quest Objectives Patch   
-Cicera Dialog Edit - LotD Patch   
-Cicera Dialog Edit - USSEP Patch    
-   
-### Elegant Queen - Elisif Replacer for SSE
-https://www.nexusmods.com/skyrimspecialedition/mods/39599   
-Elisabeth Elisif replacer   
-
 ### Diverse Dragons Collection SE (DDCse)
 https://www.nexusmods.com/skyrimspecialedition/mods/695   
 Diverse Dragons Collection SE   
 
 ### Dynamic Animation Replacer
-https://www.nexusmods.com/skyrimspecialedition/mods/33746   
+https://www.nexusmods.com/skyrimspecialedition/mods/33746    
 DynamicAnimationReplacer v1.1.0 for SkyrimSE
+
+### Immersive Interactions - Animated Actions
+https://www.nexusmods.com/skyrimspecialedition/mods/47670    
+Immersive Interactions
 
 ### RaceMenu
 https://www.nexusmods.com/skyrimspecialedition/mods/19080   
@@ -281,7 +256,7 @@ XP32 Maximum Skeleton Special Extended
 
 ### KS Hairdos - HDT SMP (Physics)
 https://www.nexusmods.com/skyrimspecialedition/mods/31300   
-KS Hairdos SMP => WIg option
+KS Hairdos SMP => Wig option
 
 ### High Poly Head 1.4
 https://vectorplexus.com/files/file/283-high-poly-head/   
@@ -291,7 +266,51 @@ https://www.nexusmods.com/skyrimspecialedition/mods/42768
 High Poly NPC Overhaul - Resources 2.06   
 High Poly NPC Overhaul - Resources - KS Hairdos HDT SMP Physics Patch 2.05      
 
+### High Poly NPC Overhaul - Flower Girls SE
+https://www.nexusmods.com/skyrimspecialedition/mods/44486
+High Poly NPC Overhaul - Flower Girls SE
 
+### High Poly NPC Overhaul - Skyrim Special Edition 2.0 (All Vanilla NPCs)
+https://www.nexusmods.com/skyrimspecialedition/mods/44155
+High Poly NPC Overhaul - Skyrim Special Edition - BSA
+Patch Collection
+
+### Bijin NPCs SE
+https://www.nexusmods.com/skyrimspecialedition/mods/11287    
+Bijin NPCs SE 1.2.1    
+
+### Bijin Warmaidens SE
+https://www.nexusmods.com/skyrimspecialedition/mods/1825   
+Bijin Warmaidens SE v3.1.3    
+
+### Bijin Wives SE
+https://www.nexusmods.com/skyrimspecialedition/mods/11247    
+Bijin Wives SE 1.1.2   
+
+### Seranaholic by rxkx22 - SSE
+https://www.nexusmods.com/skyrimspecialedition/mods/13027     
+Seranaholic SSE 1.8   
+Valerica SSE   
+
+### Bijin All in One 2020
+https://www.nexusmods.com/skyrimspecialedition/mods/11      
+Bijin AIO 2020 - Serana Valerica - AI Overhaul    
+
+### Cicero Female SE
+https://www.nexusmods.com/skyrimspecialedition/mods/5212   
+Cicero Female SE   
+
+### Cicera - Female Cicero Dialogue Edit   
+https://www.nexusmods.com/skyrimspecialedition/mods/43990   
+Cicera - Female Cicero Dialogue Edit     
+Cicera Dialog Edit - CRF Patch   
+Cicera Dialog Edit - Even Better Quest Objectives Patch   
+Cicera Dialog Edit - LotD Patch   
+Cicera Dialog Edit - USSEP Patch    
+   
+### Elegant Queen - Elisif Replacer for SSE
+https://www.nexusmods.com/skyrimspecialedition/mods/39599   
+Elisabeth Elisif replacer   
 
 # End setup
 
