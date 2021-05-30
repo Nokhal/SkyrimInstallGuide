@@ -38,6 +38,14 @@ All in one
 https://www.nexusmods.com/skyrimspecialedition/mods/266    
 Unofficial Skyrim Special Edition Patch
 
+### Cutting Room Floor - SSE
+https://www.nexusmods.com/skyrimspecialedition/mods/276   
+Cutting Room Floor
+
+### Open Cities Skyrim - SSE
+https://www.nexusmods.com/skyrimspecialedition/mods/281
+Open Cities Skyrim   
+
 ### The Book of UUNP Volumes 1 2 and 3 - UNP - Sevenbase - UNPB
 https://www.nexusmods.com/skyrimspecialedition/mods/7505          
 The Book of UUNP-SSE           
@@ -61,11 +69,7 @@ Acquisitive Soul Gems Multithreaded
    
 ### AI Overhaul SSE   
 https://www.nexusmods.com/skyrimspecialedition/mods/21654       
-AI Overhaul 1.6.4      
-
-### Open Cities Skyrim - SSE
-https://www.nexusmods.com/skyrimspecialedition/mods/281
-Open Cities Skyrim       
+AI Overhaul 1.6.4          
 
 ### AI Overhaul - Open Cities Compatibility
 https://www.nexusmods.com/skyrimspecialedition/mods/38031      
@@ -82,5 +86,15 @@ https://www.nexusmods.com/skyrimspecialedition/mods/1187
 Relationship Dialogue Overhaul - RDO Final   
 RDO - CRF and USSEP Patches Final   
 RDO - iAFT SE Patch Final   
+
+### Andromeda - Unique Standing Stones of Skyrim
+https://www.nexusmods.com/skyrimspecialedition/mods/14910   
+Andromeda 1.1.2         
+
+### Apocalypse - Magic of Skyrim    
+https://www.nexusmods.com/skyrimspecialedition/mods/1090    
+Apocalypse 9.45.0   
+Apocalypse - Ordinator Compatibility Patch
+
 
 
