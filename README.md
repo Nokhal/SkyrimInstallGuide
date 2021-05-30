@@ -531,6 +531,11 @@ Legacy of the Dragonborn Patches (Official)
 https://www.nexusmods.com/skyrimspecialedition/mods/19518   
 kryptopyr's Patch Hub Installer
 
+## File Conflicts
+
+Use suggested except :
+
+
 
 # Todo 
 Install the two patched provided here
