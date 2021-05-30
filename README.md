@@ -611,6 +611,7 @@ RDO - USSEP Patch.esp
 Lore Weapon Expansion - Relics of the Crusader.esp
 Lore Weapon Expansion - Goldbrand.esp
 Lore Weapon Expansion - Daedric Crescent.esp
+Uniques Uniques.exp
 
 
 Run Fnis
