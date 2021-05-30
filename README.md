@@ -270,8 +270,28 @@ FG More Adventures v1.1
 ### FNIS Sexy Move SE
 https://www.nexusmods.com/skyrimspecialedition/mods/13303    
 FNIS Sexy Move SE 7.2   
-   
-   
+     
+### HDT-SMP (Skinned Mesh Physics)
+https://www.nexusmods.com/skyrimspecialedition/mods/30872   
+HDT-SMP for SSE 1.5.97 v2.11   
+
+### XP32 Maximum Skeleton Special Extended - XPMSSE
+https://www.nexusmods.com/skyrimspecialedition/mods/1988
+XP32 Maximum Skeleton Special Extended
+
+### KS Hairdos - HDT SMP (Physics)
+https://www.nexusmods.com/skyrimspecialedition/mods/31300   
+KS Hairdos SMP => WIg option
+
+### High Poly Head 1.4
+https://vectorplexus.com/files/file/283-high-poly-head/   
+
+### High Poly NPC Overhaul - Resources
+https://www.nexusmods.com/skyrimspecialedition/mods/42768   
+High Poly NPC Overhaul - Resources 2.06   
+High Poly NPC Overhaul - Resources - KS Hairdos HDT SMP Physics Patch 2.05      
+
+
 
 # End setup
 
