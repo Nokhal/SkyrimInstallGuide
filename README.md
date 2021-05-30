@@ -318,7 +318,9 @@ Patch - Summermyst
 
 ### Weapons Armor Clothing and Clutter Fixes
 https://www.nexusmods.com/skyrimspecialedition/mods/18994          
-Weapons Armor Clothing and Clutter Fixes
+Weapons Armor Clothing and Clutter Fixes 
+
+Only enable the core Plugin
 
 ### Weapons Armor Clothing and Clutter Fixes (WACCF) and Summermyst Enchantments Patch
 https://www.nexusmods.com/skyrimspecialedition/mods/19500   
