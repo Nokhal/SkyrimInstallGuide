@@ -229,13 +229,15 @@ SMIM SE 2-08  => Everything
 
 ### Blended Roads
 https://www.nexusmods.com/skyrimspecialedition/mods/8834
-Blended Roads
+Blended Roads => Blended Roads both options
+
+Solve conflicts by Clicking Afer All on Blended Roads
 
 ### High Poly Project
 https://www.nexusmods.com/skyrimspecialedition/mods/12029   
 High Poly Project => Everything, no patch
 
-Solve conflict by Clicking Afer All onHigh Poly Project.
+Solve conflicts by Clicking Afer All onHigh Poly Project.
 
 ### Skyrim 2018 by Pfuscher
 https://www.nexusmods.com/skyrimspecialedition/mods/20146    
@@ -243,19 +245,23 @@ Skyrim 2018 => All Options, No retexture, no surprise.
 Bugfixes 1.5   
 Bugfixes 1.6   
 
-Solve convflict by Clicking Afer All on Skyrim 2018, then on Skyrim 2018 by Pfuscher - Bugfixes 1.5
+Solve conflicts by Clicking Afer All on Skyrim 2018, then on Skyrim 2018 by Pfuscher - Bugfixes 1.5
 
 ### Skyrim 2020 Parallax by Pfuscher 
 https://www.nexusmods.com/skyrimspecialedition/mods/2347   
 A. Skyrim 2020 - Part I - Highest Quality        
 A. Skyrim 2020 - Part II - Highest Quality   
 A. Skyrim 2020 - Part I - Highest Quality - Green Caves   
-7 Mountain Textures - with FOMod installer   
+7 Mountain Textures - with FOMod installer   => Pick what you like
 Blended Roads Retexture  
 Whiterun Street - Alternative 2   
     
-Solve convflict by Clicking Afer All, in that order, for files :    
+Solve conflicts by Clicking Afer All, in that order, for files :    
 A. Skyrim 2020 - Part I - Highest Quality   
+A. Skyrim 2020 - Part II - Highest Quality 
+A. Skyrim 2020 - Part I - Highest Quality - Green Caves   
+Skyrim 2020 Parallax by Pfuscher Blended Roads Retexture  
+Skyrim 2020 Parallax by Pfuscher - Whiterun Street - Alternative 2 
 
 ### Prisoner cart fix SMIM    
 https://www.nexusmods.com/skyrimspecialedition/mods/8004   
@@ -558,15 +564,21 @@ kryptopyr's Patch Hub Installer
 
 ## File Conflicts
 
-Click on "After All" in this order :
-Immersive Amazing Follower Tweak SE
-Immersive Amazing Follower Tweak SE - USEEP and DLC Patch
-Diversity - A Character Overhaul (v 3.3 crf)
-Smimm SE 2-08
-High Poly Project 
-Skyrim 2018
-Skyrim 2018 by Pfuscher - Bugfixes 1.5
-
+Click on "After All" in this order :   
+Immersive Amazing Follower Tweak SE   
+Immersive Amazing Follower Tweak SE - USEEP and DLC Patch   
+Diversity - A Character Overhaul (v 3.3 crf)    
+Smimm SE 2-08     
+Blended Roads     
+High Poly Project  
+Skyrim 2018    
+Skyrim 2018 by Pfuscher - Bugfixes 1.5    
+A. Skyrim 2020 - Part I - Highest Quality     
+A. Skyrim 2020 - Part II - Highest Quality   
+A. Skyrim 2020 - Part I - Highest Quality - Green Caves    
+Skyrim 2020 Parallax by Pfuscher Blended Roads Retexture   
+Skyrim 2020 Parallax by Pfuscher - Whiterun Street - Alternative 2    
+    
 # Todo 
 Install the two patched provided here
 
