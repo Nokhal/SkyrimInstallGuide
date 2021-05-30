@@ -20,9 +20,14 @@ Once skyrim has be installed, install vortex and learn how to use it
 ### Microsoft Visual C++ Redistributable for Visual Studio 2019
 https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads
 
+## Optional
+
 ### FallrimTools - Script cleaner and more
 https://www.nexusmods.com/skyrimspecialedition/mods/5031   
 Save cleaner.
+
+### Xedit
+https://github.com/TES5Edit/TES5Edit/releases/
            
  ## Mods/tools needing some manual install work 
  
