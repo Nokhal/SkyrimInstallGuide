@@ -174,7 +174,8 @@ Andromeda 1.1.2
 ### Apocalypse - Magic of Skyrim    
 https://www.nexusmods.com/skyrimspecialedition/mods/1090    
 Apocalypse 9.45.0   
-Apocalypse - Ordinator Compatibility Patch
+Apocalypse - Ordinator Compatibility Patch    
+Apocalypse - Waterstride Spell Addon (Ported by Velgath)
 
 ### Triumvirate - Mage Archetypes   
 https://www.nexusmods.com/skyrimspecialedition/mods/39170   
