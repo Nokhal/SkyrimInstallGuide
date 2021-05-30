@@ -68,6 +68,10 @@ NetScriptFramework SkyrimSE v14
 https://www.nexusmods.com/skyrimspecialedition/mods/19250   
 More Informative Console 0.42   
 
+### PapyrusUtil SE - Modders Scripting Utility Functions
+https://www.nexusmods.com/skyrimspecialedition/mods/13048   
+PapyrusUtil SE - Scripting Utility Functions   
+
 ### Unofficial Skyrim Special Edition Patch
 https://www.nexusmods.com/skyrimspecialedition/mods/266    
 Unofficial Skyrim Special Edition Patch
@@ -88,6 +92,10 @@ LOTD - OCS Patch
 https://www.nexusmods.com/skyrimspecialedition/mods/324       
 Castle Volkihar Rebuilt   
 
+### Point The Way   
+https://www.nexusmods.com/skyrimspecialedition/mods/352   
+Point The Way   
+
 ### Dawnguard Map Markers   
 https://www.nexusmods.com/skyrimspecialedition/mods/20931   
 Dawnguard Map Markers               
@@ -96,6 +104,10 @@ Dawnguard Map Markers
 https://www.nexusmods.com/skyrimspecialedition/mods/15109   
 Fuz Ro D'oh   
 
+### Odin - Skyrim Magic Overhaul   
+https://www.nexusmods.com/skyrimspecialedition/mods/46000   
+Odin 1.8.0   
+
 ### Ordinator - Perks of Skyrim
 https://www.nexusmods.com/skyrimspecialedition/mods/1137         
 Ordinator 9.30.1 (or later)               
@@ -103,8 +115,12 @@ Ordinator 9.30.1 (or later)
 Odin - Ordinator Compatibility Patch          
 
 ### Growl - Werebeasts of Skyrim
-https://www.nexusmods.com/skyrimspecialedition/mods/31245
+https://www.nexusmods.com/skyrimspecialedition/mods/31245   
 Growl 2.3.0
+
+### Sacrosanct - Vampires of Skyrim
+https://www.nexusmods.com/skyrimspecialedition/mods/3928   
+Sacrosanct 5.17.0   
 
 ### A Quality World Map        
 https://www.nexusmods.com/skyrimspecialedition/mods/5804         
@@ -172,6 +188,14 @@ Aumriel - RDO SE
 https://www.nexusmods.com/skyrimspecialedition/mods/13389   
 CaesiaSE   
 
+### Seductress Faye - Custom voiced FG Follower.
+https://www.nexusmods.com/skyrimspecialedition/mods/20185   
+Seductress Faye - SE - FG   
+
+### Simple Load Screens   
+https://www.nexusmods.com/skyrimspecialedition/mods/49529      
+Simple Load Screens   
+
 ### Static Mesh Improvement Mod - SMIM 
 https://www.nexusmods.com/skyrimspecialedition/mods/659   
 SMIM SE 2-08
@@ -195,6 +219,14 @@ A. Skyrim 2020 - Part I - Highest Quality - Green Caves
 Blended Roads Retexture  
 Whiterun Street - Alternative 2   
 
+### Prisoner cart fix SMIM    
+https://www.nexusmods.com/skyrimspecialedition/mods/8004   
+Prisoner Cart Fix SSE   
+
+### XxAwesome_PotionsxX SSE   
+https://www.nexusmods.com/skyrimspecialedition/mods/5077/   
+XxAWESOME_POTIONSxX XL   
+
 ### Skyrim Skill Uncapper
 https://www.nexusmods.com/skyrimspecialedition/mods/8889/   
 Skyrim Skill Uncapper   
@@ -209,6 +241,13 @@ MLU - AI Overhaul-ESL
 MLU - Summermyst - Enchantments of Skyrim
 MLU - Zim's Immersive Artifacts-ESL
 
+### Skyrim Alchemy Fixed   
+https://www.nexusmods.com/skyrimspecialedition/mods/2262   
+Skyrim Alchemy Fixed   
+Skyrim Alchemy Fixed - Ordinator   
+Patch - Awesome Potions   
+Patch - Summermyst   
+
 ### Summermyst - Enchantments of Skyrim
 https://www.nexusmods.com/skyrimspecialedition/mods/6285/
 Summermyst v307
@@ -222,12 +261,17 @@ https://www.nexusmods.com/skyrimspecialedition/mods/9660
 Lore Weapon Expansion   
 
 ### LeanWolf's Better-Shaped Weapons SE
-https://www.nexusmods.com/skyrimspecialedition/mods/2017
+https://www.nexusmods.com/skyrimspecialedition/mods/2017   
 LeanWolfs Better-Shaped Weapons Installer v2.1.03 SE   
 
-### Gildergreen Regrown
+### Gildergreen Regrown   
 https://www.nexusmods.com/skyrimspecialedition/mods/348    
 Gildergreen Regrown   
+
+### Opulent Thieves Guild   
+https://www.nexusmods.com/skyrimspecialedition/mods/931    
+Opulent Thieves Guild     
+Update ESL Patch - Created by Erstam    
 
 ### Stones of Barenziah Quest Markers
 https://www.nexusmods.com/skyrimspecialedition/mods/684   
@@ -253,6 +297,10 @@ UNP Female Body Renewal 4.6
 https://www.nexusmods.com/skyrimspecialedition/mods/20078   
 Bijin Skin UNP   
 
+### Skin Feature Overlays SE - Freckles Scars Birthmarks Stretch Marks Moles and More for Face and Body RaceMenu Overlays
+https://www.nexusmods.com/skyrimspecialedition/mods/20183   
+SkFO SE - Skin Feature Overlays- 2K   
+
 ### The Book of UUNP Volumes 1 2 and 3 - UNP - Sevenbase - UNPB
 https://www.nexusmods.com/skyrimspecialedition/mods/7505          
 The Book of UUNP-SSE           
@@ -271,6 +319,18 @@ DynamicAnimationReplacer v1.1.0 for SkyrimSE
 ### Immersive Interactions - Animated Actions
 https://www.nexusmods.com/skyrimspecialedition/mods/47670    
 Immersive Interactions
+
+### OSA - Skyrim Ascendancy Engine
+https://www.nexusmods.com/skyrimspecialedition/mods/17217   
+OSA    
+SkyLife   
+
+### OSex
+https://www.nexusmods.com/skyrimspecialedition/mods/17209   
+OSex   
+OSex_BadGirlsOfSkyrim   
+OSex_DuaWield   
+OSex_WizardSex   
 
 ### RaceMenu
 https://www.nexusmods.com/skyrimspecialedition/mods/19080   
@@ -337,6 +397,15 @@ High Poly NPC Overhaul - Flower Girls SE
 https://www.nexusmods.com/skyrimspecialedition/mods/44155   
 High Poly NPC Overhaul - Skyrim Special Edition - BSA
 Patch Collection
+
+### RS Children Overhaul
+https://www.nexusmods.com/skyrimspecialedition/mods/2650   
+RSSE Children Overhaul 1.1.3 with hotfix 1
+
+### RS Children Patch Compendium
+https://www.nexusmods.com/skyrimspecialedition/mods/13409   
+RS Children - AI Overhaul patch   
+RSC FOMOD Beta   
 
 ### Bijin NPCs SE
 https://www.nexusmods.com/skyrimspecialedition/mods/11287    
