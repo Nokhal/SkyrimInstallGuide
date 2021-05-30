@@ -309,7 +309,8 @@ MLU - Cutting Room Floor
 MLU - Immersive Armors   
 MLU - Lore Weapon Expansion - LOTD Version    
 MLU - AI Overhaul-ESL    
-MLU - Summermyst - Enchantments of Skyrim    
+MLU - Summermyst - Enchantments of Skyrim   
+MLU - WACCF-ESL   
 MLU - Zim's Immersive Artifacts-ESL    
 
 ### Skyrim Alchemy Fixed   
