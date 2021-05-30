@@ -225,7 +225,7 @@ Simple Load Screens
 
 ### Static Mesh Improvement Mod - SMIM 
 https://www.nexusmods.com/skyrimspecialedition/mods/659   
-SMIM SE 2-08
+SMIM SE 2-08  => Everything
 
 ### High Poly Project
 https://www.nexusmods.com/skyrimspecialedition/mods/12029   
