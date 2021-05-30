@@ -394,7 +394,9 @@ Solve conflict by clicking on After all on UNP Female Body Renewal 4.6
 
 ### Bijin Skin UNP and CBBE SE   
 https://www.nexusmods.com/skyrimspecialedition/mods/20078   
-Bijin Skin UNP   
+Bijin Skin UNP => 4k Pubic, 4k Default, 4k Default, 4k default, Default x2, 4k default, all the rest default.   
+
+Solve conflict by clicking on After all on Bijin Skin UNP
 
 ### Skin Feature Overlays SE - Freckles Scars Birthmarks Stretch Marks Moles and More for Face and Body RaceMenu Overlays
 https://www.nexusmods.com/skyrimspecialedition/mods/20183   
@@ -404,24 +406,34 @@ SkFO SE - Skin Feature Overlays- 2K
 https://www.nexusmods.com/skyrimspecialedition/mods/16185   
 The Eyes of Beauty SSE   
 
-### UNP Body Fit Armors and Clothing
-https://www.nexusmods.com/skyrimspecialedition/mods/11136   
-UNP Body Fit Armors and Clothing 2.3
+Solve conflict by clicking on After all on The Eyes of Beauty SSE   
 
-### Schlongs of Skyrim SE 1.1.4
-https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/   
-Schlongs_of_Skyrim_SE - v1.1.4.rar   
+### UNP Body Fit Armors and Clothing   
+https://www.nexusmods.com/skyrimspecialedition/mods/11136    
+UNP Body Fit Armors and Clothing 2.3  => ESPFE, Immersive TBBP, ESPFE    
+    
+Solve conflict by clicking on After all on UNP Body Fit Armors and Clothing 2.3   
+
+### Schlongs of Skyrim SE 1.1.4   
+https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/    
+Schlongs_of_Skyrim_SE - v1.1.4.rar => Default; Hairy; Regular, uncheck Skeletons, Shop    
+
+Solve conflict by clicking on After all on SoS SE, then on XP32 Maximum Skeleton Special Extended     
 
 ### Tempered Skins for Males - Vanilla and SOS versions
 https://www.nexusmods.com/skyrimspecialedition/mods/7902   
-Tempered Skins for Males - SOS Full version   
+Tempered Skins for Males - SOS Full version => A1, B6, C2, D2, E2
+
+Solve conflict by clicking on After all on Tempered Skins for Males - SOS Full version
 
 ### The Book of UUNP Volumes 1 2 and 3 - UNP - Sevenbase - UNPB
 https://www.nexusmods.com/skyrimspecialedition/mods/7505          
 The Book of UUNP-SSE           
-Missing DBboots Texture             
+Missing DBboots Texture     
 01 - The Book of UUNP - SSE UNP meshes         
 03 - The Book of UUNP - Waylanders No Skimpy Patch    
+     
+Solve conflict by clicking on After all on The Book of UUNP-SSE, then on The Book of UUNP - Waylanders No Skimpy Patch    
 
 ### Diverse Dragons Collection SE (DDCse)
 https://www.nexusmods.com/skyrimspecialedition/mods/695   
@@ -435,10 +447,35 @@ DynamicAnimationReplacer v1.1.0 for SkyrimSE
 https://www.nexusmods.com/skyrimspecialedition/mods/47670    
 Immersive Interactions
 
+### Expressive Facegen Morphs SE 
+https://www.nexusmods.com/skyrimspecialedition/mods/35785   
+Expressive Facegen Morphs SE   
+
+Solve conflicts by clicking on After all on Expressive Facegen Morphs SE
+
+### Expressive Facial Animation -Female Edition-   
+https://www.nexusmods.com/skyrimspecialedition/mods/19181   
+Expressive Facial Animation - Female Edition   
+   
+Solve conflicts by clicking on After all on Expressive Facial Animation -Female Edition-   
+
+### Expressive Facial Animation -Male Edition-
+https://www.nexusmods.com/skyrimspecialedition/mods/19532   
+Expressive Facial Animation - Male Edition   
+   
+Solve conflicts by clicking on After all on Expressive Facial Animation -Male Edition-   
+
+### Mfg Fix
+https://www.nexusmods.com/skyrimspecialedition/mods/11669   
+MfgFix   
+MfgFix MCM
+
 ### OSA - Skyrim Ascendancy Engine
 https://www.nexusmods.com/skyrimspecialedition/mods/17217   
 OSA    
 SkyLife   
+
+Solve conflicts by clicking on *BEFORE all* on OSA - Skyrim Ascendancy Engine - OSA 
 
 ### OSex
 https://www.nexusmods.com/skyrimspecialedition/mods/17209   
@@ -447,30 +484,15 @@ OSex_BadGirlsOfSkyrim
 OSex_DuaWield   
 OSex_WizardSex   
    
-### Expressive Facegen Morphs SE 
-https://www.nexusmods.com/skyrimspecialedition/mods/35785   
-Expressive Facegen Morphs SE   
-
-### Expressive Facial Animation -Female Edition-   
-https://www.nexusmods.com/skyrimspecialedition/mods/19181   
-Expressive Facial Animation - Female Edition   
-
-### Expressive Facial Animation -Male Edition-
-https://www.nexusmods.com/skyrimspecialedition/mods/19532   
-Expressive Facial Animation - Male Edition   
-
-### Mfg Fix
-https://www.nexusmods.com/skyrimspecialedition/mods/11669   
-MfgFix   
-MfgFix MCM
-
 ### Flower Girls SE and VR   
 https://www.nexusmods.com/skyrimspecialedition/mods/5941   
 FlowerGirls SE and VR Main File   
 Amorous Adventures FG SSE 3.4.1   
 FlowerGirls SE Adventures   
 FlowerGirls SE Caesia Patch   
-FlowerGirls SE Female Cicero Patch    
+FlowerGirls SE Female Cicero Patch  => Enable only after you have installed Cicero replacer to prevent errors    
+
+Solve conflicts by clicking on After all on FlowerGirls SE Caesia Patch    
 
 ### More Adventures for Flower Girls
 https://www.nexusmods.com/skyrimspecialedition/mods/40029   
@@ -484,26 +506,34 @@ FNIS Sexy Move SE 7.2
 https://www.nexusmods.com/skyrimspecialedition/mods/6817  
 KS Hairdos SSE   
 
+Solve conflicts by clicking on After all on KS Hairdos SSE   
+
 ### KS Hairdos - HDT SMP (Physics)
 https://www.nexusmods.com/skyrimspecialedition/mods/31300   
-KS Hairdos SMP => Wig option
+KS Hairdos SMP => Wig option     
 
 ### High Poly Head 1.4
 https://vectorplexus.com/files/file/283-high-poly-head/   
+
+Special Edition, Expressive Facegen Morphs, All Facial Animations and fixes, BSA only.
 
 ### High Poly NPC Overhaul - Resources
 https://www.nexusmods.com/skyrimspecialedition/mods/42768   
 High Poly NPC Overhaul - Resources 2.06   
 High Poly NPC Overhaul - Resources - KS Hairdos HDT SMP Physics Patch 2.05      
 
-### High Poly NPC Overhaul - Flower Girls SE
-https://www.nexusmods.com/skyrimspecialedition/mods/44486   
-High Poly NPC Overhaul - Flower Girls SE
+Solve conflict by clicking on After all on 
+High Poly NPC Overhaul - Resources 2.06    
+High Poly NPC Overhaul - Resources - KS Hairdos HDT SMP Physics Patch 2.05     
 
 ### High Poly NPC Overhaul - Skyrim Special Edition 2.0 (All Vanilla NPCs)
 https://www.nexusmods.com/skyrimspecialedition/mods/44155   
-High Poly NPC Overhaul - Skyrim Special Edition - BSA
-Patch Collection
+High Poly NPC Overhaul - Skyrim Special Edition 2.04   
+Patch Collection      
+
+### High Poly NPC Overhaul - Flower Girls SE
+https://www.nexusmods.com/skyrimspecialedition/mods/44486   
+High Poly NPC Overhaul - Flower Girls SE    
 
 ### RS Children Overhaul
 https://www.nexusmods.com/skyrimspecialedition/mods/2650   
@@ -582,7 +612,10 @@ kryptopyr's Patch Hub Installer
 
 ## File Conflicts
 
-Click on "After All" in this order :   
+### Click on "After All" in this order :  
+OSA - Skyrim Ascendancy Engine - OSA    
+Papyrus Util SE - Scripting Utility Functions   
+MfgFix   
 Immersive Amazing Follower Tweak SE   
 Immersive Amazing Follower Tweak SE - USEEP and DLC Patch   
 Diversity - A Character Overhaul (v 3.3 crf)    
@@ -601,6 +634,23 @@ LeanWolfs Better-Shaped Weapons Installer v2.1.03 SE
 Zim's Immersive Artifacts v 1.6.2   
 Zim's Immersive Artifacts - ZIA White Phial Fix    
 UNP Female Body Renewal 4.6    
+Bijin Skin UNP    
+The Eyes of Beauty SSE       
+UNP Body Fit Armors and Clothing 2.3     
+SoS SE    
+Tempered Skins for Males - SOS Full version    
+XP32 Maximum Skeleton Special Extended    
+Book of UUNP-SSE   
+The Book of UUNP - Waylanders No Skimpy Patch    
+Expressive Facegen Morphs SE    
+Expressive Facial Animation -Female Edition-    
+Expressive Facial Animation -Male Edition-
+Caesia Follower - Borne of Magic - Revamped - Caesia SE
+FlowerGirls SE Caesia Patch     
+KS Hairdos SSE     
+High Poly NPC Overhaul - Resources 2.06    
+High Poly NPC Overhaul - Resources - KS Hairdos HDT SMP Physics Patch 2.05     
+    
     
 # Todo 
 Install the two patched provided here
