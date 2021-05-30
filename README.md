@@ -47,4 +47,11 @@ Ordinator 9.30.1 (or later)
 50 percent More Perk Points         
 Odin - Ordinator Compatibility Patch          
 
+### A Quality World Map        
+https://www.nexusmods.com/skyrimspecialedition/mods/5804         
+8.4 A Quality World Map - Classic with All Roads           
+
+### Acquisitive Soul Gems Multithreaded       
+https://www.nexusmods.com/skyrimspecialedition/mods/1469      
+Acquisitive Soul Gems Multithreaded
    
