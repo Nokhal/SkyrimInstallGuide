@@ -125,14 +125,19 @@ Apocalypse 9.45.0
 Apocalypse - Ordinator Compatibility Patch
 
 ### Immersive Armors
-https://www.nexusmods.com/skyrimspecialedition/mods/3479
+https://www.nexusmods.com/skyrimspecialedition/mods/3479   
 Immersive Armors 8.1 SSE
 
+### Immersive Patrols SE
+https://www.nexusmods.com/skyrimspecialedition/mods/718   
+Immersive Patrols Lite   
+
 ### Immersive Citizens - AI Overhaul SE
-https://www.nexusmods.com/skyrimspecialedition/mods/173
+https://www.nexusmods.com/skyrimspecialedition/mods/173    
 Immersive Citizens - AI Overhaul
 
 ### Diversity - A Character Overhaul   
+https://www.nexusmods.com/skyrimspecialedition/mods/5291   
 Diversity - A Character Overhaul (v3.3crf)   
 Diversity - Valindor missing FaceGenData (3.3)   
 
@@ -166,6 +171,14 @@ A. Skyrim 2020 - Part I - Highest Quality - Green Caves
 7 Mountain Textures - with FOMod installer   
 Blended Roads Retexture  
 Whiterun Street - Alternative 2   
+
+### Legacy of the Dragonborn SSE   
+https://www.nexusmods.com/skyrimspecialedition/mods/11802   
+Legacy of the Dragonborn   
+
+### LeanWolf's Better-Shaped Weapons SE
+https://www.nexusmods.com/skyrimspecialedition/mods/2017
+LeanWolfs Better-Shaped Weapons Installer v2.1.03 SE   
 
 ### Gildergreen Regrown
 https://www.nexusmods.com/skyrimspecialedition/mods/348    
@@ -250,9 +263,9 @@ FNIS Sexy Move SE 7.2
 https://www.nexusmods.com/skyrimspecialedition/mods/30872   
 HDT-SMP for SSE 1.5.97 v2.11   
 
-### XP32 Maximum Skeleton Special Extended - XPMSSE
-https://www.nexusmods.com/skyrimspecialedition/mods/1988
-XP32 Maximum Skeleton Special Extended
+### KS Hairdos SSE
+https://www.nexusmods.com/skyrimspecialedition/mods/6817  
+KS Hairdos SSE   
 
 ### KS Hairdos - HDT SMP (Physics)
 https://www.nexusmods.com/skyrimspecialedition/mods/31300   
@@ -267,11 +280,11 @@ High Poly NPC Overhaul - Resources 2.06
 High Poly NPC Overhaul - Resources - KS Hairdos HDT SMP Physics Patch 2.05      
 
 ### High Poly NPC Overhaul - Flower Girls SE
-https://www.nexusmods.com/skyrimspecialedition/mods/44486
+https://www.nexusmods.com/skyrimspecialedition/mods/44486   
 High Poly NPC Overhaul - Flower Girls SE
 
 ### High Poly NPC Overhaul - Skyrim Special Edition 2.0 (All Vanilla NPCs)
-https://www.nexusmods.com/skyrimspecialedition/mods/44155
+https://www.nexusmods.com/skyrimspecialedition/mods/44155   
 High Poly NPC Overhaul - Skyrim Special Edition - BSA
 Patch Collection
 
@@ -301,7 +314,7 @@ https://www.nexusmods.com/skyrimspecialedition/mods/5212
 Cicero Female SE   
 
 ### Cicera - Female Cicero Dialogue Edit   
-https://www.nexusmods.com/skyrimspecialedition/mods/43990   
+https://www.nexusmods.com/skyrimspecialedition/mods/43990    
 Cicera - Female Cicero Dialogue Edit     
 Cicera Dialog Edit - CRF Patch   
 Cicera Dialog Edit - Even Better Quest Objectives Patch   
@@ -311,6 +324,16 @@ Cicera Dialog Edit - USSEP Patch
 ### Elegant Queen - Elisif Replacer for SSE
 https://www.nexusmods.com/skyrimspecialedition/mods/39599   
 Elisabeth Elisif replacer   
+
+### XP32 Maximum Skeleton Special Extended - XPMSSE
+https://www.nexusmods.com/skyrimspecialedition/mods/1988
+XP32 Maximum Skeleton Special Extended
+
+### kryptopyr's Patch Hub
+https://www.nexusmods.com/skyrimspecialedition/mods/19518   
+kryptopyr's Patch Hub Installer
+
+
 
 # End setup
 
