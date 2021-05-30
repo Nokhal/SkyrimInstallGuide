@@ -19,6 +19,10 @@ Once skyrim has be installed, install vortex and learn how to use it
 
 ### Microsoft Visual C++ Redistributable for Visual Studio 2019
 https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads
+
+### FallrimTools - Script cleaner and more
+https://www.nexusmods.com/skyrimspecialedition/mods/5031
+Save cleaner.
            
  ## Mods/tools needing some manual install work 
  
@@ -224,10 +228,23 @@ Expressive Facegen Morphs SE
 
 ### Expressive Facial Animation -Female Edition-   
 https://www.nexusmods.com/skyrimspecialedition/mods/19181   
-Expressive Facial Animation - Female Edition
+Expressive Facial Animation - Female Edition   
 
+### Expressive Facial Animation -Male Edition-
+https://www.nexusmods.com/skyrimspecialedition/mods/19532
+Expressive Facial Animation - Male Edition   
 
+### Flower Girls SE and VR   
+https://www.nexusmods.com/skyrimspecialedition/mods/5941   
+FlowerGirls SE and VR Main File
+Amorous Adventures FG SSE 3.4.1
+FlowerGirls SE Adventures
+FlowerGirls SE Caesia Patch
+FlowerGirls SE Female Cicero Patch
 
+### More Adventures for Flower Girls
+https://www.nexusmods.com/skyrimspecialedition/mods/40029   
+FG More Adventures v1.1   
 
 # End setup
 
