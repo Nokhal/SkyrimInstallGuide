@@ -229,13 +229,17 @@ SMIM SE 2-08  => Everything
 
 ### High Poly Project
 https://www.nexusmods.com/skyrimspecialedition/mods/12029   
-High Poly Project
+High Poly Project => Everything, no patch
+
+Solve conflict by Clicking Afer All onHigh Poly Project.
 
 ### Skyrim 2018 by Pfuscher
 https://www.nexusmods.com/skyrimspecialedition/mods/20146    
-Skyrim 2018
+Skyrim 2018 => All Options, No retexture, no surprise.
 Bugfixes 1.5
 Bugfixes 1.6
+
+Solve convflict by Clicking Afer All on Skyrim 2018.
 
 ### Skyrim 2020 Parallax by Pfuscher 
 https://www.nexusmods.com/skyrimspecialedition/mods/2347   
@@ -547,12 +551,19 @@ kryptopyr's Patch Hub Installer
 
 ## File Conflicts
 
-Use suggested except :
-
+Click on "After All" in this order :
+Immersive Amazing Follower Tweak SE
+Immersive Amazing Follower Tweak SE - USEEP and DLC Patch
+Diversity - A Character Overhaul (v 3.3 crf)
+Smimm SE 2-08
+High Poly Project 
+Skyrim 2018
 
 
 # Todo 
 Install the two patched provided here
+
+AFT features compat with convenient horse
 
 # End setup
 The following ESPs are to be disabled or deleted from your /data folder. (I recommend deletion) There is no benefit to leaving these esps in your data folder.      
