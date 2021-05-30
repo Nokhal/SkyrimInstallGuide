@@ -277,14 +277,24 @@ XxAWESOME_POTIONSxX XL
 https://www.nexusmods.com/skyrimspecialedition/mods/8889/   
 Skyrim Skill Uncapper   
 
+### Unique Uniques SE    
+https://www.nexusmods.com/skyrimspecialedition/mods/3334/    
+Unique Uniques SE
+
+### Zim's Immersive Artifacts
+https://www.nexusmods.com/skyrimspecialedition/mods/9138   
+Zim's Immersive Artifacts V1.6.2  => All artifacts; Chillrend: Better Shaped Weapon; Ebony Mail: Dark details; Mace of Molag Baal: Purple; Volendrung: Green Glow
+ZIA White Phial Fix   
+
 ### MorrowLoot Ultimate   
 https://www.nexusmods.com/skyrimspecialedition/mods/3058  
 MorrowLoot Ultimate      
 MLU - Cutting Room Floor   
 MLU - Immersive Armors   
 MLU - Lore Weapon Expansion - LOTD Version    
-MLU - AI Overhaul-ESL   
-MLU - Summermyst - Enchantments of Skyrim   
+MLU - AI Overhaul-ESL    
+MLU - Summermyst - Enchantments of Skyrim    
+MLU - Unique Uniques-ESL    
 MLU - Zim's Immersive Artifacts-ESL    
 
 ### Skyrim Alchemy Fixed   
@@ -310,10 +320,6 @@ WACCF and Summermyst Enchantments Patch V2
 https://www.nexusmods.com/skyrimspecialedition/mods/1368   
 Wildcat v700
 
-### Zim's Immersive Artifacts
-https://www.nexusmods.com/skyrimspecialedition/mods/9138   
-Zim's Immersive Artifacts V1.6.2   
-ZIA White Phial Fix   
 
 ### Zim's Immersive Artifacts - WACCF Patch
 https://www.nexusmods.com/skyrimspecialedition/mods/19489
