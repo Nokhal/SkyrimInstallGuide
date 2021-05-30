@@ -235,11 +235,11 @@ Solve conflict by Clicking Afer All onHigh Poly Project.
 
 ### Skyrim 2018 by Pfuscher
 https://www.nexusmods.com/skyrimspecialedition/mods/20146    
-Skyrim 2018 => All Options, No retexture, no surprise.
-Bugfixes 1.5
-Bugfixes 1.6
+Skyrim 2018 => All Options, No retexture, no surprise.    
+Bugfixes 1.5   
+Bugfixes 1.6   
 
-Solve convflict by Clicking Afer All on Skyrim 2018.
+Solve convflict by Clicking Afer All on Skyrim 2018, then on Skyrim 2018 by Pfuscher - Bugfixes 1.5
 
 ### Skyrim 2020 Parallax by Pfuscher 
 https://www.nexusmods.com/skyrimspecialedition/mods/2347   
@@ -558,7 +558,7 @@ Diversity - A Character Overhaul (v 3.3 crf)
 Smimm SE 2-08
 High Poly Project 
 Skyrim 2018
-
+Skyrim 2018 by Pfuscher - Bugfixes 1.5
 
 # Todo 
 Install the two patched provided here
@@ -573,5 +573,7 @@ Bijin NPCs.esp
 Serana.esp   
 Valerica.esp   
 RDO - USSEP Patch.esp
+
+
 
 Run Fnis
