@@ -206,11 +206,6 @@ https://www.nexusmods.com/skyrimspecialedition/mods/3218
 The Notice Board   
 The Notice Board - Open Cities Patch    
 
-### Diversity - A Character Overhaul   
-https://www.nexusmods.com/skyrimspecialedition/mods/5291   
-Diversity - A Character Overhaul (v3.3crf)   
-Diversity - Valindor missing FaceGenData (3.3)   
-
 ### Aumriel - The Pale Lady   
 https://www.nexusmods.com/skyrimspecialedition/mods/24161   
 Aumriel - RDO SE   
@@ -528,8 +523,10 @@ High Poly NPC Overhaul - Resources - KS Hairdos HDT SMP Physics Patch 2.05
 
 ### High Poly NPC Overhaul - Skyrim Special Edition 2.0 (All Vanilla NPCs)
 https://www.nexusmods.com/skyrimspecialedition/mods/44155   
-High Poly NPC Overhaul - Skyrim Special Edition 2.04   
-Patch Collection      
+High Poly NPC Overhaul - Skyrim Special Edition 2.04     
+Patch Collection => To be manually replaced By nokhal patch        
+    
+Solve conflict by clicking on After all on High Poly NPC Overhaul - Skyrim Special Edition 2.04      
 
 ### High Poly NPC Overhaul - Flower Girls SE
 https://www.nexusmods.com/skyrimspecialedition/mods/44486   
@@ -537,29 +534,42 @@ High Poly NPC Overhaul - Flower Girls SE
 
 ### RS Children Overhaul
 https://www.nexusmods.com/skyrimspecialedition/mods/2650   
-RSSE Children Overhaul 1.1.3 with hotfix 1
+RSSE Children Overhaul 1.1.3 with hotfix 1 => USSEP
 
 ### RS Children Patch Compendium
 https://www.nexusmods.com/skyrimspecialedition/mods/13409   
 RS Children - AI Overhaul patch   
 RSC FOMOD Beta   
 
+Solve conflict by clicking on After all on    
+RS Children Patch Compendium - RSC FOMOD Beta    
+RS Children - AI Overhaul patch   
+
 ### Bijin NPCs SE
 https://www.nexusmods.com/skyrimspecialedition/mods/11287    
-Bijin NPCs SE 1.2.1    
+Bijin NPCs SE 1.2.1 => All in one, Vanilla Based, Wrinkles for everyone, UNP body.     
+    
+Solve conflicts by clicking on After all on  
+Bijin NPCs SE   
 
 ### Bijin Warmaidens SE
 https://www.nexusmods.com/skyrimspecialedition/mods/1825   
-Bijin Warmaidens SE v3.1.3    
+Bijin Warmaidens SE v3.1.3 => All in one, Wrinkles for everyone, UNP body.  
+
+Solve conflicts by clicking on After all on  
+Bijin Warmaidens SE    
 
 ### Bijin Wives SE
 https://www.nexusmods.com/skyrimspecialedition/mods/11247    
-Bijin Wives SE 1.1.2   
+Bijin Wives SE 1.1.2  => All in one UNP body.     
+    
+Solve conflicts by clicking on After all on    
+Bijin Wives SE     
 
 ### Seranaholic by rxkx22 - SSE
 https://www.nexusmods.com/skyrimspecialedition/mods/13027     
-Seranaholic SSE 1.8   
-Valerica SSE   
+Seranaholic SSE 1.8 => Unp, Red Eye + wght 20, Vampire Style  
+Valerica SSE => Unp, Red, Black, Wrinkles  
 
 ### Bijin All in One 2020
 https://www.nexusmods.com/skyrimspecialedition/mods/11      
@@ -587,7 +597,10 @@ Sybille Awakened.7z
 
 ### Nether's Karliah
 https://www.nexusmods.com/skyrimspecialedition/mods/49334   
-Nether's Karliah - Universal Installer (LE or SSE)   
+Nether's Karliah - Universal Installer (LE or SSE) => Special edition, Nether's Karilah, Default x2, UNP, AFT  
+   
+Solve conflicts by clicking on After all on    
+Nether's Karliah - Universal Installer (LE or SSE)  
 
 ### Seductress Faye - Custom voiced FG Follower.
 https://www.nexusmods.com/skyrimspecialedition/mods/20185   
@@ -602,9 +615,15 @@ https://www.nexusmods.com/skyrimspecialedition/mods/42420
 Sofia The Funny Fully Voiced Follower - High Poly Heads - ESL   
 Sofia Follower High Poly Heads-Sofia Alt Hair-Blond - Overwrite when asked   
 
+Solve conflicts by clicking on After all on    
+Sofia The Funny Fully Voiced Follower - High Poly Heads - ESL 
+Sofia Follower High Poly Heads-Sofia Alt Hair-Blond - Overwrite when asked   
+
 ### Legacy of the Dragonborn Patches (Official)
 https://www.nexusmods.com/skyrimspecialedition/mods/30980   
-Legacy of the Dragonborn Patches (Official)   
+Legacy of the Dragonborn Patches (Official)  => Autodetect setup except last : pick SMIM and Skyrim 2018   
+
+Solve conflicts by clicking on After all on Legacy of the Dragonborn Patches (Official)    
 
 ### kryptopyr's Patch Hub
 https://www.nexusmods.com/skyrimspecialedition/mods/19518   
@@ -618,7 +637,6 @@ Papyrus Util SE - Scripting Utility Functions
 MfgFix   
 Immersive Amazing Follower Tweak SE   
 Immersive Amazing Follower Tweak SE - USEEP and DLC Patch   
-Diversity - A Character Overhaul (v 3.3 crf)    
 Smimm SE 2-08     
 Blended Roads     
 High Poly Project  
@@ -650,10 +668,21 @@ FlowerGirls SE Caesia Patch
 KS Hairdos SSE     
 High Poly NPC Overhaul - Resources 2.06    
 High Poly NPC Overhaul - Resources - KS Hairdos HDT SMP Physics Patch 2.05     
-    
+High Poly NPC Overhaul - Skyrim Special Edition 2.04    
+RS Children Patch Compendium - RSC FOMOD Beta   
+RS Children - AI Overhaul patch    
+Bijin NPCs SE    
+Bijin Warmaidens SE    
+Bijin Wives SE    
+Nether's Karliah - Universal Installer (LE or SSE)    
+Sofia The Funny Fully Voiced Follower - High Poly Heads - ESL   
+Sofia Follower High Poly Heads-Sofia Alt Hair-Blond - Overwrite when asked    
+Legacy of the Dragonborn Patches (Official)   
     
 # Todo 
 Install the two patched provided here
+
+Generate Patch for high poly faces + all the Bijin stuff
 
 AFT features compat with convenient horse
 
