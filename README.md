@@ -614,7 +614,7 @@ Seductress Faye - SE - FG
 
 ### Sofia - The Funny Fully Voiced Follower   
 https://www.nexusmods.com/skyrimspecialedition/mods/2180   
-Sofia Follower v.2.51 (BSA)   
+Sofia Follower v.2.51 (Loose)   
 
 ### Sofia - The Funny Fully Voiced Follower - High Poly Heads Replacer
 https://www.nexusmods.com/skyrimspecialedition/mods/42420   
@@ -681,6 +681,7 @@ Bijin NPCs SE
 Bijin Warmaidens SE    
 Bijin Wives SE    
 Nether's Karliah - Universal Installer (LE or SSE)    
+Sofia Follower v.2.51 (Loose)
 Sofia The Funny Fully Voiced Follower - High Poly Heads - ESL   
 Sofia Follower High Poly Heads-Sofia Alt Hair-Blond - Overwrite when asked    
 Legacy of the Dragonborn Patches (Official)   
@@ -706,6 +707,12 @@ Lore Weapon Expansion - Relics of the Crusader.esp
 Lore Weapon Expansion - Goldbrand.esp   
 Lore Weapon Expansion - Daedric Crescent.esp   
 RaceMenuPlugin.esp   
+waccf_vashedpatchlvllistfix.esp
+
+## Remove sofia buggy script
+Delete \Skyrim Special Edition\Data\Scripts\ski_playerloadgamealias.pex
+
+Accept changes in Nexus
 
 ## Generate Animations
 Run Fnis
