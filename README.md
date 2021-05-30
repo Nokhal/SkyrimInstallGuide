@@ -284,7 +284,9 @@ Unique Uniques SE
 ### Zim's Immersive Artifacts
 https://www.nexusmods.com/skyrimspecialedition/mods/9138   
 Zim's Immersive Artifacts V1.6.2  => All artifacts; Chillrend: Better Shaped Weapon; Ebony Mail: Dark details; Mace of Molag Baal: Purple; Volendrung: Green Glow
-ZIA White Phial Fix   
+ZIA White Phial Fix    
+    
+Solve conflict by clicking on Zim's Immersive Artifacts - ZIA White Phial Fix    After all    
 
 ### MorrowLoot Ultimate   
 https://www.nexusmods.com/skyrimspecialedition/mods/3058  
@@ -586,7 +588,9 @@ A. Skyrim 2020 - Part II - Highest Quality
 A. Skyrim 2020 - Part I - Highest Quality - Green Caves    
 Skyrim 2020 Parallax by Pfuscher Blended Roads Retexture   
 Skyrim 2020 Parallax by Pfuscher - Whiterun Street - Alternative 2    
-Prisoner Cart Fix SSE   
+Prisoner Cart Fix SSE    
+Zim's Immersive Artifacts v 1.6.2   
+Zim's Immersive Artifacts - ZIA White Phial Fix    
     
 # Todo 
 Install the two patched provided here
