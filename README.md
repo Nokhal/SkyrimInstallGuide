@@ -189,6 +189,10 @@ Immersive Armors 8.1 SSE => Install UNP support
 https://www.nexusmods.com/skyrimspecialedition/mods/718   
 Immersive Patrols Lite   
 
+### The Notice Board SE
+https://www.nexusmods.com/skyrimspecialedition/mods/3218   
+The Notice Board   
+The Notice Board - Open Cities Patch    
 
 ### Diversity - A Character Overhaul   
 https://www.nexusmods.com/skyrimspecialedition/mods/5291   
