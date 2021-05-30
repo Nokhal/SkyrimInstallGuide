@@ -48,7 +48,11 @@ Download and install part 1 with vortex normally, manually download and extract 
 ### Address Library for SKSE Plugins
 https://www.nexusmods.com/skyrimspecialedition/mods/32444  
 All in one
-   
+
+### More Informative Console
+https://www.nexusmods.com/skyrimspecialedition/mods/19250   
+More Informative Console 0.42   
+
 ### Unofficial Skyrim Special Edition Patch
 https://www.nexusmods.com/skyrimspecialedition/mods/266    
 Unofficial Skyrim Special Edition Patch
@@ -60,6 +64,10 @@ Cutting Room Floor
 ### Open Cities Skyrim - SSE
 https://www.nexusmods.com/skyrimspecialedition/mods/281   
 Open Cities Skyrim    
+
+### Open Cities - Legacy of the Dragonborn Compatibility Patch
+https://www.nexusmods.com/skyrimspecialedition/mods/31272   
+LOTD - OCS Patch   
 
 ### Castle Volkihar Rebuilt - SSE
 https://www.nexusmods.com/skyrimspecialedition/mods/324       
@@ -176,6 +184,10 @@ Whiterun Street - Alternative 2
 https://www.nexusmods.com/skyrimspecialedition/mods/11802   
 Legacy of the Dragonborn   
 
+### Lore Weapon Expansion SE   
+https://www.nexusmods.com/skyrimspecialedition/mods/9660   
+Lore Weapon Expansion   
+
 ### LeanWolf's Better-Shaped Weapons SE
 https://www.nexusmods.com/skyrimspecialedition/mods/2017
 LeanWolfs Better-Shaped Weapons Installer v2.1.03 SE   
@@ -240,16 +252,21 @@ https://www.nexusmods.com/skyrimspecialedition/mods/19181
 Expressive Facial Animation - Female Edition   
 
 ### Expressive Facial Animation -Male Edition-
-https://www.nexusmods.com/skyrimspecialedition/mods/19532
+https://www.nexusmods.com/skyrimspecialedition/mods/19532   
 Expressive Facial Animation - Male Edition   
+
+### Mfg Fix
+https://www.nexusmods.com/skyrimspecialedition/mods/11669   
+MfgFix   
+MfgFix MCM
 
 ### Flower Girls SE and VR   
 https://www.nexusmods.com/skyrimspecialedition/mods/5941   
-FlowerGirls SE and VR Main File
-Amorous Adventures FG SSE 3.4.1
-FlowerGirls SE Adventures
-FlowerGirls SE Caesia Patch
-FlowerGirls SE Female Cicero Patch
+FlowerGirls SE and VR Main File   
+Amorous Adventures FG SSE 3.4.1   
+FlowerGirls SE Adventures   
+FlowerGirls SE Caesia Patch   
+FlowerGirls SE Female Cicero Patch    
 
 ### More Adventures for Flower Girls
 https://www.nexusmods.com/skyrimspecialedition/mods/40029   
@@ -328,6 +345,10 @@ Elisabeth Elisif replacer
 ### XP32 Maximum Skeleton Special Extended - XPMSSE
 https://www.nexusmods.com/skyrimspecialedition/mods/1988
 XP32 Maximum Skeleton Special Extended
+
+### Legacy of the Dragonborn Patches (Official)
+https://www.nexusmods.com/skyrimspecialedition/mods/30980   
+Legacy of the Dragonborn Patches (Official)   
 
 ### kryptopyr's Patch Hub
 https://www.nexusmods.com/skyrimspecialedition/mods/19518   
