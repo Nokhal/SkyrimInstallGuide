@@ -278,14 +278,14 @@ https://www.nexusmods.com/skyrimspecialedition/mods/8889/
 Skyrim Skill Uncapper   
 
 ### MorrowLoot Ultimate   
-https://www.nexusmods.com/skyrimspecialedition/mods/3058
-MorrowLoot Ultimate   
-MLU - Cutting Room Floor
-MLU - Immersive Armors
-MLU - Lore Weapon Expansion - LOTD Version
-MLU - AI Overhaul-ESL
-MLU - Summermyst - Enchantments of Skyrim
-MLU - Zim's Immersive Artifacts-ESL
+https://www.nexusmods.com/skyrimspecialedition/mods/3058  
+MorrowLoot Ultimate      
+MLU - Cutting Room Floor   
+MLU - Immersive Armors   
+MLU - Lore Weapon Expansion - LOTD Version    
+MLU - AI Overhaul-ESL   
+MLU - Summermyst - Enchantments of Skyrim   
+MLU - Zim's Immersive Artifacts-ESL    
 
 ### Skyrim Alchemy Fixed   
 https://www.nexusmods.com/skyrimspecialedition/mods/2262   
