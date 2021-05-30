@@ -553,5 +553,6 @@ Bijin Wives.esp
 Bijin NPCs.esp   
 Serana.esp   
 Valerica.esp   
+RDO - USSEP Patch.esp
 
 Run Fnis
