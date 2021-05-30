@@ -93,10 +93,6 @@ Cutting Room Floor
 https://www.nexusmods.com/skyrimspecialedition/mods/281   
 Open Cities Skyrim    
 
-### Open Cities - Legacy of the Dragonborn Compatibility Patch
-https://www.nexusmods.com/skyrimspecialedition/mods/31272   
-LOTD - OCS Patch   
-
 ### Castle Volkihar Rebuilt - SSE
 https://www.nexusmods.com/skyrimspecialedition/mods/324       
 Castle Volkihar Rebuilt   
@@ -306,6 +302,10 @@ Zim's Immersive Artifacts - Weapons Armor Clothing and Clutter Fixes Patch
 ### Legacy of the Dragonborn SSE   
 https://www.nexusmods.com/skyrimspecialedition/mods/11802   
 Legacy of the Dragonborn   
+
+### Open Cities - Legacy of the Dragonborn Compatibility Patch
+https://www.nexusmods.com/skyrimspecialedition/mods/31272   
+LOTD - OCS Patch   
 
 ### Lore Weapon Expansion SE   
 https://www.nexusmods.com/skyrimspecialedition/mods/9660   
