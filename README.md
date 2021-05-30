@@ -253,6 +253,9 @@ A. Skyrim 2020 - Part I - Highest Quality - Green Caves
 7 Mountain Textures - with FOMod installer   
 Blended Roads Retexture  
 Whiterun Street - Alternative 2   
+    
+Solve convflict by Clicking Afer All, in that order, for files :    
+A. Skyrim 2020 - Part I - Highest Quality   
 
 ### Prisoner cart fix SMIM    
 https://www.nexusmods.com/skyrimspecialedition/mods/8004   
