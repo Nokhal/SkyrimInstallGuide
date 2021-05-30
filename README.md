@@ -11,7 +11,7 @@ Notes : Mods are in the order they need to override each others files. See at th
 
 ### Skyrim Special Edition        
 https://steamcommunity.com/app/489830/             
-Install it, run it at least once, set settings to high.
+Install it, run it at least once, set settings to ultra and display subtitles.
 
 ### Vortex + Nexusmods Account
 https://www.nexusmods.com/about/vortex/          
