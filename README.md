@@ -345,7 +345,6 @@ Legacy of the Dragonborn
 https://www.nexusmods.com/skyrimspecialedition/mods/31272   
 LOTD - OCS Patch   
 
-
 ### Gildergreen Regrown   
 https://www.nexusmods.com/skyrimspecialedition/mods/348    
 Gildergreen Regrown   
@@ -355,25 +354,43 @@ https://www.nexusmods.com/skyrimspecialedition/mods/931
 Opulent Thieves Guild     
 Update ESL Patch - Created by Erstam    
 
+### Even Better Quest Objectives SE - EBQO SE
+https://www.nexusmods.com/skyrimspecialedition/mods/159   
+Even Better Quest Objectives SE v1.8.4  => Brotherhood forever to misc, accept the pre ticked options of compat patches.
+
 ### Stones of Barenziah Quest Markers
 https://www.nexusmods.com/skyrimspecialedition/mods/684   
 BarenziahQuestMarkers SSE v1-3-1   
 
-### Even Better Quest Objectives SE - EBQO SE
-https://www.nexusmods.com/skyrimspecialedition/mods/159   
-Even Better Quest Objectives SE v1.8.4   
-
 ### Finding Derkeethus
 https://www.nexusmods.com/skyrimspecialedition/mods/19550?   
-Finding Derkeethus  
+Finding Derkeethus => Even better quest objectives option
 
 ### Better Dialogue Controls
 https://www.nexusmods.com/skyrimspecialedition/mods/1429   
-Better Dialogue Controls v1_2
+Better Dialogue Controls v1_2   
+
+### RaceMenu
+https://www.nexusmods.com/skyrimspecialedition/mods/19080   
+RaceMenu Special Edition v0-4-16   
+
+Do not enable the optional plugin, only the core mod.    
+
+### HDT-SMP (Skinned Mesh Physics)
+https://www.nexusmods.com/skyrimspecialedition/mods/30872   
+HDT-SMP for SSE 1.5.97 v2.11      
+
+### XP32 Maximum Skeleton Special Extended - XPMSSE   
+https://www.nexusmods.com/skyrimspecialedition/mods/1988    
+XP32 Maximum Skeleton Special Extended => Weapon style randomizer in Sync, Shlong of Skyrim patch
+
+Note : Never override those files. They should always load last.  
 
 ### UNP Female Body Renewal - A female face and body replacer
 https://www.nexusmods.com/skyrimspecialedition/mods/1699   
-UNP Female Body Renewal 4.6   
+UNP Female Body Renewal 4.6   => Pinup, HDT-STMP, 4k, Scars ans with pubic hairs, Defined scars, Default, SG Female eyebrows.   
+  
+Solve conflict by clicking on After all on UNP Female Body Renewal 4.6 
 
 ### Bijin Skin UNP and CBBE SE   
 https://www.nexusmods.com/skyrimspecialedition/mods/20078   
@@ -429,10 +446,6 @@ OSex
 OSex_BadGirlsOfSkyrim   
 OSex_DuaWield   
 OSex_WizardSex   
-
-### RaceMenu
-https://www.nexusmods.com/skyrimspecialedition/mods/19080   
-RaceMenu Special Edition v0-4-16   
    
 ### Expressive Facegen Morphs SE 
 https://www.nexusmods.com/skyrimspecialedition/mods/35785   
@@ -466,10 +479,6 @@ FG More Adventures v1.1
 ### FNIS Sexy Move SE
 https://www.nexusmods.com/skyrimspecialedition/mods/13303    
 FNIS Sexy Move SE 7.2   
-     
-### HDT-SMP (Skinned Mesh Physics)
-https://www.nexusmods.com/skyrimspecialedition/mods/30872   
-HDT-SMP for SSE 1.5.97 v2.11   
 
 ### KS Hairdos SSE
 https://www.nexusmods.com/skyrimspecialedition/mods/6817  
@@ -563,10 +572,6 @@ https://www.nexusmods.com/skyrimspecialedition/mods/42420
 Sofia The Funny Fully Voiced Follower - High Poly Heads - ESL   
 Sofia Follower High Poly Heads-Sofia Alt Hair-Blond - Overwrite when asked   
 
-### XP32 Maximum Skeleton Special Extended - XPMSSE
-https://www.nexusmods.com/skyrimspecialedition/mods/1988
-XP32 Maximum Skeleton Special Extended
-
 ### Legacy of the Dragonborn Patches (Official)
 https://www.nexusmods.com/skyrimspecialedition/mods/30980   
 Legacy of the Dragonborn Patches (Official)   
@@ -595,6 +600,7 @@ Prisoner Cart Fix SSE
 LeanWolfs Better-Shaped Weapons Installer v2.1.03 SE
 Zim's Immersive Artifacts v 1.6.2   
 Zim's Immersive Artifacts - ZIA White Phial Fix    
+UNP Female Body Renewal 4.6    
     
 # Todo 
 Install the two patched provided here
@@ -602,15 +608,19 @@ Install the two patched provided here
 AFT features compat with convenient horse
 
 # End setup
+
+## Remove ESP
 The following ESPs are to be disabled or deleted from your /data folder. (I recommend deletion) There is no benefit to leaving these esps in your data folder.      
 Bijin Warmaidens.esp   
 Bijin Wives.esp   
 Bijin NPCs.esp   
 Serana.esp   
-Valerica.esp   
-RDO - USSEP Patch.esp
-Lore Weapon Expansion - Relics of the Crusader.esp
-Lore Weapon Expansion - Goldbrand.esp
-Lore Weapon Expansion - Daedric Crescent.esp
+Valerica.esp    
+RDO - USSEP Patch.esp   
+Lore Weapon Expansion - Relics of the Crusader.esp   
+Lore Weapon Expansion - Goldbrand.esp   
+Lore Weapon Expansion - Daedric Crescent.esp   
+RaceMenuPlugin.esp   
 
+## Generate Animations
 Run Fnis
