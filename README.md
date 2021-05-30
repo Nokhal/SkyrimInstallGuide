@@ -54,6 +54,11 @@ https://www.nexusmods.com/skyrimspecialedition/mods/10546?tab=description
 3. Put the "binkw64.dll" from downloaded archive into the folder mentioned in step 1.   
 4. If you did it correctly you should have two files in your folder now: "binkw64.dll" and "binkw64_.dll", that's all, you can start the game now.   
 
+### SSE Parallax Shader Fix (BETA)   
+https://www.nexusmods.com/skyrimspecialedition/mods/31963   
+SSE Parallax Shader Fix v1.0 (BETA)    
+d3dcompiler_47  <= Install manually by extrating to root
+
 ## Mods that can be fully installed from within vortex
 
 ### Address Library for SKSE Plugins
@@ -71,6 +76,10 @@ More Informative Console 0.42
 ### PapyrusUtil SE - Modders Scripting Utility Functions
 https://www.nexusmods.com/skyrimspecialedition/mods/13048   
 PapyrusUtil SE - Scripting Utility Functions   
+
+### SkyUI   
+https://www.nexusmods.com/skyrimspecialedition/mods/12604   
+SkyUI_5_2_SE   
 
 ### Unofficial Skyrim Special Edition Patch
 https://www.nexusmods.com/skyrimspecialedition/mods/266    
@@ -95,6 +104,10 @@ Castle Volkihar Rebuilt
 ### Point The Way   
 https://www.nexusmods.com/skyrimspecialedition/mods/352   
 Point The Way   
+
+### The Paarthurnax Dilemma   
+https://www.nexusmods.com/skyrimspecialedition/mods/365    
+The Paarthurnax Dilemma
 
 ### Dawnguard Map Markers   
 https://www.nexusmods.com/skyrimspecialedition/mods/20931   
@@ -128,7 +141,11 @@ https://www.nexusmods.com/skyrimspecialedition/mods/5804
 
 ### Acquisitive Soul Gems Multithreaded       
 https://www.nexusmods.com/skyrimspecialedition/mods/1469      
-Acquisitive Soul Gems Multithreaded
+Acquisitive Soul Gems Multithreaded  
+
+### The Forgotten City   
+https://www.nexusmods.com/skyrimspecialedition/mods/1179   
+The Forgotten City   
    
 ### AI Overhaul SSE   
 https://www.nexusmods.com/skyrimspecialedition/mods/21654       
@@ -163,6 +180,10 @@ https://www.nexusmods.com/skyrimspecialedition/mods/1090
 Apocalypse 9.45.0   
 Apocalypse - Ordinator Compatibility Patch
 
+### Triumvirate - Mage Archetypes   
+https://www.nexusmods.com/skyrimspecialedition/mods/39170   
+Triumvirate 1.7.0
+
 ### Immersive Armors
 https://www.nexusmods.com/skyrimspecialedition/mods/3479   
 Immersive Armors 8.1 SSE
@@ -191,6 +212,15 @@ CaesiaSE
 ### Seductress Faye - Custom voiced FG Follower.
 https://www.nexusmods.com/skyrimspecialedition/mods/20185   
 Seductress Faye - SE - FG   
+
+### Sofia - The Funny Fully Voiced Follower   
+https://www.nexusmods.com/skyrimspecialedition/mods/2180   
+Sofia Follower v.2.51 (BSA)   
+
+### Sofia - The Funny Fully Voiced Follower - High Poly Heads Replacer
+https://www.nexusmods.com/skyrimspecialedition/mods/42420   
+Sofia The Funny Fully Voiced Follower - High Poly Heads - ESL   
+Sofia Follower High Poly Heads-Sofia Alt Hair-Blond - Overwrite when asked   
 
 ### Simple Load Screens   
 https://www.nexusmods.com/skyrimspecialedition/mods/49529      
@@ -252,6 +282,27 @@ Patch - Summermyst
 https://www.nexusmods.com/skyrimspecialedition/mods/6285/
 Summermyst v307
 
+### Weapons Armor Clothing and Clutter Fixes
+https://www.nexusmods.com/skyrimspecialedition/mods/18994
+Weapons Armor Clothing and Clutter Fixes
+
+### Weapons Armor Clothing and Clutter Fixes (WACCF) and Summermyst Enchantments Patch
+https://www.nexusmods.com/skyrimspecialedition/mods/19500   
+WACCF and Summermyst Enchantments Patch V2
+
+### Wildcat - Combat of Skyrim  
+https://www.nexusmods.com/skyrimspecialedition/mods/1368   
+Wildcat v700
+
+### Zim's Immersive Artifacts
+https://www.nexusmods.com/skyrimspecialedition/mods/9138   
+Zim's Immersive Artifacts V1.6.2   
+ZIA White Phial Fix   
+
+### Zim's Immersive Artifacts - WACCF Patch
+https://www.nexusmods.com/skyrimspecialedition/mods/19489
+Zim's Immersive Artifacts - Weapons Armor Clothing and Clutter Fixes Patch
+
 ### Legacy of the Dragonborn SSE   
 https://www.nexusmods.com/skyrimspecialedition/mods/11802   
 Legacy of the Dragonborn   
@@ -300,6 +351,22 @@ Bijin Skin UNP
 ### Skin Feature Overlays SE - Freckles Scars Birthmarks Stretch Marks Moles and More for Face and Body RaceMenu Overlays
 https://www.nexusmods.com/skyrimspecialedition/mods/20183   
 SkFO SE - Skin Feature Overlays- 2K   
+
+### The Eyes Of Beauty SSE
+https://www.nexusmods.com/skyrimspecialedition/mods/16185   
+The Eyes of Beauty SSE   
+
+### UNP Body Fit Armors and Clothing
+https://www.nexusmods.com/skyrimspecialedition/mods/11136   
+UNP Body Fit Armors and Clothing 2.3
+
+### Schlongs of Skyrim SE 1.1.4
+https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/   
+Schlongs_of_Skyrim_SE - v1.1.4.rar   
+
+### Tempered Skins for Males - Vanilla and SOS versions
+https://www.nexusmods.com/skyrimspecialedition/mods/7902   
+Tempered Skins for Males - SOS Full version   
 
 ### The Book of UUNP Volumes 1 2 and 3 - UNP - Sevenbase - UNPB
 https://www.nexusmods.com/skyrimspecialedition/mods/7505          
@@ -444,6 +511,10 @@ Cicera Dialog Edit - USSEP Patch
 https://www.nexusmods.com/skyrimspecialedition/mods/39599   
 Elisabeth Elisif replacer   
 
+### Sybille Stentor Awakened SE 1.0
+https://schaken-mods.com/file/118-sybille-stentor-awakened-se/   
+Sybille Awakened.7z    
+
 ### Nether's Karliah
 https://www.nexusmods.com/skyrimspecialedition/mods/49334   
 Nether's Karliah - Universal Installer (LE or SSE)   
@@ -461,12 +532,15 @@ https://www.nexusmods.com/skyrimspecialedition/mods/19518
 kryptopyr's Patch Hub Installer
 
 
+# Todo 
+Install the two patched provided here
 
 # End setup
-
 The following ESPs are to be disabled or deleted from your /data folder. (I recommend deletion) There is no benefit to leaving these esps in your data folder.      
 Bijin Warmaidens.esp   
 Bijin Wives.esp   
 Bijin NPCs.esp   
 Serana.esp   
 Valerica.esp   
+
+Run Fnis
