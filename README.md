@@ -288,6 +288,16 @@ ZIA White Phial Fix
     
 Solve conflict by clicking on Zim's Immersive Artifacts - ZIA White Phial Fix    After all    
 
+### Summermyst - Enchantments of Skyrim
+https://www.nexusmods.com/skyrimspecialedition/mods/6285/
+Summermyst v307
+
+### Lore Weapon Expansion SE   
+https://www.nexusmods.com/skyrimspecialedition/mods/9660   
+Lore Weapon Expansion   
+
+Only enable the main plugin.
+
 ### MorrowLoot Ultimate   
 https://www.nexusmods.com/skyrimspecialedition/mods/3058  
 MorrowLoot Ultimate      
@@ -306,10 +316,6 @@ Skyrim Alchemy Fixed - Ordinator
 Patch - Awesome Potions   
 Patch - Summermyst   
 
-### Summermyst - Enchantments of Skyrim
-https://www.nexusmods.com/skyrimspecialedition/mods/6285/
-Summermyst v307
-
 ### Weapons Armor Clothing and Clutter Fixes
 https://www.nexusmods.com/skyrimspecialedition/mods/18994
 Weapons Armor Clothing and Clutter Fixes
@@ -322,7 +328,6 @@ WACCF and Summermyst Enchantments Patch V2
 https://www.nexusmods.com/skyrimspecialedition/mods/1368   
 Wildcat v700
 
-
 ### Zim's Immersive Artifacts - WACCF Patch
 https://www.nexusmods.com/skyrimspecialedition/mods/19489
 Zim's Immersive Artifacts - Weapons Armor Clothing and Clutter Fixes Patch
@@ -334,10 +339,6 @@ Legacy of the Dragonborn
 ### Open Cities - Legacy of the Dragonborn Compatibility Patch
 https://www.nexusmods.com/skyrimspecialedition/mods/31272   
 LOTD - OCS Patch   
-
-### Lore Weapon Expansion SE   
-https://www.nexusmods.com/skyrimspecialedition/mods/9660   
-Lore Weapon Expansion   
 
 ### LeanWolf's Better-Shaped Weapons SE
 https://www.nexusmods.com/skyrimspecialedition/mods/2017   
@@ -605,7 +606,9 @@ Bijin NPCs.esp
 Serana.esp   
 Valerica.esp   
 RDO - USSEP Patch.esp
-
+Lore Weapon Expansion - Relics of the Crusader.esp
+Lore Weapon Expansion - Goldbrand.esp
+Lore Weapon Expansion - Daedric Crescent.esp
 
 
 Run Fnis
