@@ -43,11 +43,26 @@ Configure it in Vortex, then to run every time the load order is changed.
 https://www.nexusmods.com/skyrimspecialedition/mods/17230               
 Download and install part 1 with vortex normally, manually download and extract part 2 at the root of your Skyrim folder
 
+### xSHADOWMANx's Dll Loader
+https://www.nexusmods.com/skyrimspecialedition/mods/3619/?tab=files   
+Extract to root
+
+### DLL Plugin Loader
+https://www.nexusmods.com/skyrimspecialedition/mods/10546?tab=description   
+1. Go to your Skyrim Special Edition root directory. This is the same folder where SkyrimSE.exe is, usually "C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\"   
+2. Rename "binkw64.dll" to "binkw64_.dll" <- now there's a _ at the end.   
+3. Put the "binkw64.dll" from downloaded archive into the folder mentioned in step 1.   
+4. If you did it correctly you should have two files in your folder now: "binkw64.dll" and "binkw64_.dll", that's all, you can start the game now.   
+
 ## Mods that can be fully installed from within vortex
 
 ### Address Library for SKSE Plugins
 https://www.nexusmods.com/skyrimspecialedition/mods/32444  
 All in one
+
+### .NET Script Framework
+https://www.nexusmods.com/skyrimspecialedition/mods/21294   
+NetScriptFramework SkyrimSE v14   
 
 ### More Informative Console
 https://www.nexusmods.com/skyrimspecialedition/mods/19250   
@@ -179,6 +194,24 @@ A. Skyrim 2020 - Part I - Highest Quality - Green Caves
 7 Mountain Textures - with FOMod installer   
 Blended Roads Retexture  
 Whiterun Street - Alternative 2   
+
+### Skyrim Skill Uncapper
+https://www.nexusmods.com/skyrimspecialedition/mods/8889/   
+Skyrim Skill Uncapper   
+
+### MorrowLoot Ultimate   
+https://www.nexusmods.com/skyrimspecialedition/mods/3058
+MorrowLoot Ultimate   
+MLU - Cutting Room Floor
+MLU - Immersive Armors
+MLU - Lore Weapon Expansion - LOTD Version
+MLU - AI Overhaul-ESL
+MLU - Summermyst - Enchantments of Skyrim
+MLU - Zim's Immersive Artifacts-ESL
+
+### Summermyst - Enchantments of Skyrim
+https://www.nexusmods.com/skyrimspecialedition/mods/6285/
+Summermyst v307
 
 ### Legacy of the Dragonborn SSE   
 https://www.nexusmods.com/skyrimspecialedition/mods/11802   
@@ -341,6 +374,10 @@ Cicera Dialog Edit - USSEP Patch
 ### Elegant Queen - Elisif Replacer for SSE
 https://www.nexusmods.com/skyrimspecialedition/mods/39599   
 Elisabeth Elisif replacer   
+
+### Nether's Karliah
+https://www.nexusmods.com/skyrimspecialedition/mods/49334   
+Nether's Karliah - Universal Installer (LE or SSE)   
 
 ### XP32 Maximum Skeleton Special Extended - XPMSSE
 https://www.nexusmods.com/skyrimspecialedition/mods/1988
