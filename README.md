@@ -103,6 +103,10 @@ https://www.nexusmods.com/skyrimspecialedition/mods/1090
 Apocalypse 9.45.0   
 Apocalypse - Ordinator Compatibility Patch
 
+### Diversity - A Character Overhaul   
+Diversity - A Character Overhaul (v3.3crf)   
+Diversity - Valindor missing FaceGenData (3.3)   
+
 ### Aumriel - The Pale Lady   
 https://www.nexusmods.com/skyrimspecialedition/mods/24161   
 Aumriel - RDO SE   
@@ -136,11 +140,34 @@ Whiterun Street - Alternative 2
 
 ### Stones of Barenziah Quest Markers
 https://www.nexusmods.com/skyrimspecialedition/mods/684   
-BarenziahQuestMarkers SSE v1-3-1
+BarenziahQuestMarkers SSE v1-3-1   
+
+### Even Better Quest Objectives SE - EBQO SE
+https://www.nexusmods.com/skyrimspecialedition/mods/159   
+Even Better Quest Objectives SE v1.8.4   
+
+### Finding Derkeethus
+https://www.nexusmods.com/skyrimspecialedition/mods/19550?   
+Finding Derkeethus  
 
 ### Better Dialogue Controls
 https://www.nexusmods.com/skyrimspecialedition/mods/1429   
 Better Dialogue Controls v1_2
+
+### UNP Female Body Renewal - A female face and body replacer
+https://www.nexusmods.com/skyrimspecialedition/mods/1699   
+UNP Female Body Renewal 4.6   
+
+### Bijin Skin UNP and CBBE SE   
+https://www.nexusmods.com/skyrimspecialedition/mods/20078   
+Bijin Skin UNP   
+
+### The Book of UUNP Volumes 1 2 and 3 - UNP - Sevenbase - UNPB
+https://www.nexusmods.com/skyrimspecialedition/mods/7505          
+The Book of UUNP-SSE           
+Missing DBboots Texture             
+01 - The Book of UUNP - SSE UNP meshes         
+03 - The Book of UUNP - Waylanders No Skimpy Patch    
 
 ### Bijin NPCs SE
 https://www.nexusmods.com/skyrimspecialedition/mods/11287    
@@ -161,30 +188,7 @@ Valerica SSE
 
 ### Bijin All in One 2020
 https://www.nexusmods.com/skyrimspecialedition/mods/11      
-Bijin AIO 2020 - Serana Valerica - AI Overhaul   
-
-### UNP Female Body Renewal - A female face and body replacer
-https://www.nexusmods.com/skyrimspecialedition/mods/1699   
-UNP Female Body Renewal 4.6   
-
-### Bijin Skin UNP and CBBE SE   
-https://www.nexusmods.com/skyrimspecialedition/mods/20078   
-Bijin Skin UNP   
-
-### The Book of UUNP Volumes 1 2 and 3 - UNP - Sevenbase - UNPB
-https://www.nexusmods.com/skyrimspecialedition/mods/7505          
-The Book of UUNP-SSE           
-Missing DBboots Texture             
-01 - The Book of UUNP - SSE UNP meshes         
-03 - The Book of UUNP - Waylanders No Skimpy Patch    
-
-### Even Better Quest Objectives SE - EBQO SE
-https://www.nexusmods.com/skyrimspecialedition/mods/159   
-Even Better Quest Objectives SE v1.8.4   
-
-### Finding Derkeethus
-https://www.nexusmods.com/skyrimspecialedition/mods/19550?   
-Finding Derkeethus   
+Bijin AIO 2020 - Serana Valerica - AI Overhaul    
 
 ### Cicero Female SE
 https://www.nexusmods.com/skyrimspecialedition/mods/5212   
@@ -197,10 +201,19 @@ Cicera Dialog Edit - CRF Patch
 Cicera Dialog Edit - Even Better Quest Objectives Patch   
 Cicera Dialog Edit - LotD Patch   
 Cicera Dialog Edit - USSEP Patch    
+   
+### Elegant Queen - Elisif Replacer for SSE
+https://www.nexusmods.com/skyrimspecialedition/mods/39599   
+Elisabeth Elisif replacer   
 
 ### Diverse Dragons Collection SE (DDCse)
 https://www.nexusmods.com/skyrimspecialedition/mods/695   
 Diverse Dragons Collection SE   
+
+### Dynamic Animation Replacer
+https://www.nexusmods.com/skyrimspecialedition/mods/33746   
+DynamicAnimationReplacer v1.1.0 for SkyrimSE
+
 
 
 
