@@ -116,16 +116,37 @@ Skyrim 2018
 Bugfixes 1.5
 Bugfixes 1.6
 
-### Skyrim 2020 Parallax by Pfuscher
-A. Skyrim 2020 - Part I - Highest Quality
-A. Skyrim 2020 - Part II - Highest Quality
-A. Skyrim 2020 - Part I - Highest Quality - Green Caves
-7 Mountain Textures - with FOMod installer
-Blended Roads Retexture
-Whiterun Street - Alternative 2
+### Skyrim 2020 Parallax by Pfuscher 
+https://www.nexusmods.com/skyrimspecialedition/mods/2347?tab=files   
+A. Skyrim 2020 - Part I - Highest Quality        
+A. Skyrim 2020 - Part II - Highest Quality   
+A. Skyrim 2020 - Part I - Highest Quality - Green Caves   
+7 Mountain Textures - with FOMod installer   
+Blended Roads Retexture  
+Whiterun Street - Alternative 2   
 
+### Stones of Barenziah Quest Markers
+https://www.nexusmods.com/skyrimspecialedition/mods/684   
+BarenziahQuestMarkers SSE v1-3-1
 
+### Better Dialogue Controls
+https://www.nexusmods.com/skyrimspecialedition/mods/1429   
+Better Dialogue Controls v1_2
 
+### Bijin NPCs SE
+https://www.nexusmods.com/skyrimspecialedition/mods/11287    
+Bijin NPCs SE 1.2.1    
 
+### Bijin Warmaidens SE
+https://www.nexusmods.com/skyrimspecialedition/mods/1825   
+Bijin Warmaidens SE v3.1.3    
 
+### Bijin Wives SE
+https://www.nexusmods.com/skyrimspecialedition/mods/11247    
+Bijin Wives SE 1.1.2   
+
+### Seranaholic by rxkx22 - SSE
+https://www.nexusmods.com/skyrimspecialedition/mods/13027     
+Seranaholic SSE 1.8   
+Valerica SSE   
 
