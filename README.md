@@ -159,6 +159,9 @@ AI Overhaul - Open Cities
 https://www.nexusmods.com/skyrimspecialedition/mods/15948
 Touring Carriages
 
+### Convenient Horses
+https://www.nexusmods.com/skyrimspecialedition/mods/9519   
+Convenient Horses
 
 ### Immersive Amazing Follower Tweaks SE
 https://www.nexusmods.com/skyrimspecialedition/mods/14722   
