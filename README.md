@@ -436,6 +436,10 @@ Missing DBboots Texture
      
 Solve conflict by clicking on After all on The Book of UUNP-SSE, then on The Book of UUNP - Waylanders No Skimpy Patch    
 
+### Summermyst enchanted Book of UUNP armors
+https://www.nexusmods.com/skyrimspecialedition/mods/8975
+The Book of UUNP with Summermyst Enchantments 1.6
+
 ### Diverse Dragons Collection SE (DDCse)
 https://www.nexusmods.com/skyrimspecialedition/mods/695   
 Diverse Dragons Collection SE   
