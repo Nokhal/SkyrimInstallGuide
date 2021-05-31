@@ -1,7 +1,9 @@
 # Skyrim Install Guide
 
 Goal : Lore friendly, lots of content, babes you can shag, no HP sponge all build are valid combat but you are still gonna die from time to time.           
-By combining MLU, Ordinator, Wildcat and an explosive player power gain trough unccapper, players start weak but able to tackle the first few dungeons if they are careful while endgame progress will not slow down to a crawl and will not require resetting skills. 
+By combining MLU, Ordinator, Wildcat and an explosive player power gain trough unccapper, players start weak but able to tackle the first few dungeons if they are careful while endgame progress will not slow down to a crawl and will not require resetting skills.   
+
+Relative to endgame exploit, some + Alchemy/Smithing items exist, but those enchants cannot be learned, and no recipe to craft fortify enchantement potions exist, and hence the loop is broken.   
            
 Updated : 2021-05-30           
 
