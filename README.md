@@ -186,6 +186,11 @@ RDO - iAFT SE Patch Final
 https://www.nexusmods.com/skyrimspecialedition/mods/45796    
 Castle Volkihar Rebuilt - Relationship Dialogue Overhaul Patch
 
+### Opening Scene Overhaul SE
+https://www.nexusmods.com/skyrimspecialedition/mods/168/   
+Opening Scene Overhaul (Final)   
+OSO Better Amplified Hadvar Voice Files   
+   
 ### Andromeda - Unique Standing Stones of Skyrim
 https://www.nexusmods.com/skyrimspecialedition/mods/14910   
 Andromeda 1.1.2         
