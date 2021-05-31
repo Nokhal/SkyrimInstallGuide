@@ -694,9 +694,7 @@ Legacy of the Dragonborn Patches (Official)
     
 # Todo 
 Install the two patched provided here
-
-Generate Patch for high poly faces + all the Bijin stuff
-
+Load MLU after WACF
 AFT features compat with convenient horse
 
 # End setup
