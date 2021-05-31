@@ -641,9 +641,9 @@ Solve conflicts by clicking on After all on Legacy of the Dragonborn Patches (Of
 https://www.nexusmods.com/skyrimspecialedition/mods/19518   
 kryptopyr's Patch Hub Installer
 
-## File Conflicts
+# File Conflicts
 
-### Click on "After All" in this order :  
+## Click on "After All" in this order :  
 OSA - Skyrim Ascendancy Engine - OSA    
 Papyrus Util SE - Scripting Utility Functions   
 MfgFix   
@@ -692,12 +692,14 @@ Sofia The Funny Fully Voiced Follower - High Poly Heads - ESL
 Sofia Follower High Poly Heads-Sofia Alt Hair-Blond - Overwrite when asked    
 Legacy of the Dragonborn Patches (Official)   
     
-# Todo 
-Install the two patched provided here
-Load MLU after WACF
-AFT features compat with convenient horse
+
 
 # End setup
+
+## Todo 
+Install the two patches provided here. Replace the pex and drop the ESP in data (overwrite)     
+Load MLU after WACF     
+AFT features compat with convenient horse    
 
 ## Remove ESP
 The following ESPs are to be disabled or deleted from your /data folder. (I recommend deletion) There is no benefit to leaving these esps in your data folder.      
@@ -719,4 +721,6 @@ Delete \Skyrim Special Edition\Data\Scripts\ski_playerloadgamealias.pex
 Accept changes in Nexus
 
 ## Generate Animations
-Run Fnis
+Run Fnis   
+
+# DONE. You can now start a new game trough launching SKSE.
