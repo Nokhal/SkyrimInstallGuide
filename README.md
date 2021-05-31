@@ -186,6 +186,11 @@ RDO - iAFT SE Patch Final
 https://www.nexusmods.com/skyrimspecialedition/mods/45796    
 Castle Volkihar Rebuilt - Relationship Dialogue Overhaul Patch
 
+### Opening Scene Overhaul SE
+https://www.nexusmods.com/skyrimspecialedition/mods/168/   
+Opening Scene Overhaul (Final)   
+OSO Better Amplified Hadvar Voice Files   
+   
 ### Andromeda - Unique Standing Stones of Skyrim
 https://www.nexusmods.com/skyrimspecialedition/mods/14910   
 Andromeda 1.1.2         
@@ -641,9 +646,9 @@ Solve conflicts by clicking on After all on Legacy of the Dragonborn Patches (Of
 https://www.nexusmods.com/skyrimspecialedition/mods/19518   
 kryptopyr's Patch Hub Installer
 
-## File Conflicts
+# File Conflicts
 
-### Click on "After All" in this order :  
+## Click on "After All" in this order :  
 OSA - Skyrim Ascendancy Engine - OSA    
 Papyrus Util SE - Scripting Utility Functions   
 MfgFix   
@@ -692,14 +697,14 @@ Sofia The Funny Fully Voiced Follower - High Poly Heads - ESL
 Sofia Follower High Poly Heads-Sofia Alt Hair-Blond - Overwrite when asked    
 Legacy of the Dragonborn Patches (Official)   
     
-# Todo 
-Install the two patched provided here
 
-Generate Patch for high poly faces + all the Bijin stuff
-
-AFT features compat with convenient horse
 
 # End setup
+
+## Todo 
+Install the two patches provided here. Replace the pex and drop the ESP in data (overwrite)     
+Load MLU after WACF     
+AFT features compat with convenient horse    
 
 ## Remove ESP
 The following ESPs are to be disabled or deleted from your /data folder. (I recommend deletion) There is no benefit to leaving these esps in your data folder.      
@@ -721,4 +726,6 @@ Delete \Skyrim Special Edition\Data\Scripts\ski_playerloadgamealias.pex
 Accept changes in Nexus
 
 ## Generate Animations
-Run Fnis
+Run Fnis with the first 3 options ticked.  
+
+# DONE. You can now start a new game trough launching SKSE.
