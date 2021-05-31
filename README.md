@@ -721,6 +721,6 @@ Delete \Skyrim Special Edition\Data\Scripts\ski_playerloadgamealias.pex
 Accept changes in Nexus
 
 ## Generate Animations
-Run Fnis   
+Run Fnis with the first 3 options ticked.  
 
 # DONE. You can now start a new game trough launching SKSE.
