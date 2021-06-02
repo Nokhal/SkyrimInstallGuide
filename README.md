@@ -706,6 +706,8 @@ Install the two patches provided here. Replace the pex and drop the ESP in data 
 Load MLU after WACF     
 AFT features compat with convenient horse    
 
+Remove shiny cubemap for vanilla armors ?
+
 ## Remove ESP
 The following ESPs are to be disabled or deleted from your /data folder. (I recommend deletion) There is no benefit to leaving these esps in your data folder.      
 Bijin Warmaidens.esp   
