@@ -248,7 +248,7 @@ Solve conflicts by Clicking Afer All onHigh Poly Project.
 
 ### Skyrim 2018 by Pfuscher
 https://www.nexusmods.com/skyrimspecialedition/mods/20146    
-Skyrim 2018 => All Options, No retexture, no surprise.    
+Skyrim 2018 => Both top options (no armor), No retexture, no surprise.    
 Bugfixes 1.5   
 Bugfixes 1.6   
 
