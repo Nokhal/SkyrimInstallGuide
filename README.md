@@ -5,7 +5,7 @@ By combining MLU, Ordinator, Wildcat and an explosive player power gain trough u
 
 Relative to endgame exploit, some + Alchemy/Smithing items exist, but those enchants cannot be learned, and no recipe to craft fortify enchantement potions exist, and hence the loop is broken.   
            
-Updated : 2021-06-11         
+Updated : 2021-06-17         
 
 Notes : Mods are in the order they need to override each others files. See at the bottom for load order.
 
@@ -248,7 +248,7 @@ Solve conflicts by Clicking Afer All onHigh Poly Project.
 
 ### Skyrim 2018 by Pfuscher
 https://www.nexusmods.com/skyrimspecialedition/mods/20146    
-Skyrim 2018 => Both top options (no armor), No retexture, no surprise.    
+Skyrim 2018 => Both top options (no armor cubemap), No retexture, no surprise.    
 Bugfixes 1.5   
 Bugfixes 1.6   
 
@@ -704,9 +704,8 @@ Legacy of the Dragonborn Patches (Official)
 ## Todo 
 Install the two patches provided here. Replace the pex and drop the ESP in data (overwrite)     
 Load MLU after WACF     
-AFT features compat with convenient horse    
-
-Remove shiny cubemap for vanilla armors ?
+AFT features compat with convenient horse ?
+some weird immersive aft behaviour tofix   
 
 ## Remove ESP
 The following ESPs are to be disabled or deleted from your /data folder. (I recommend deletion) There is no benefit to leaving these esps in your data folder.      
