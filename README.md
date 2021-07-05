@@ -5,7 +5,7 @@ By combining MLU, Ordinator, Wildcat and an explosive player power gain trough u
 
 Relative to endgame exploit, some + Alchemy/Smithing items exist, but those enchants cannot be learned, and no recipe to craft fortify enchantement potions exist, and hence the loop is broken.   
            
-Updated : 2021-06-17         
+Updated : 2021-07-05        
 
 Notes : Mods are in the order they need to override each others files. See at the bottom for load order.
 
