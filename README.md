@@ -788,10 +788,16 @@ Unofficial OSex Bug Patch
 # End setup
 
 ## Todo 
-Install the two patches provided here. Replace the pex and drop the ESP in data (overwrite)     
-Load MLU after WACF     
-AFT features compat with convenient horse ?
-some weird immersive aft behaviour tofix   
+
+Put:      
+https://github.com/Nokhal/SkyrimInstallGuide/blob/master/patches/Nokhal-LO2021.esp
+in       
+steamapps\common\Skyrim Special Edition\Data
+      
+Put: 
+https://raw.githubusercontent.com/Nokhal/SkyrimInstallGuide/master/patches/SkyrimUncapper.ini
+in      
+steamapps\common\Skyrim Special Edition\Data\SKSE\plugins       
 
 ## Remove ESP
 The following ESPs are to be disabled or deleted from your /data folder. (I recommend deletion) There is no benefit to leaving these esps in your data folder.      
