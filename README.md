@@ -5,7 +5,7 @@ By combining MLU, Ordinator, Wildcat and an explosive player power gain trough u
 
 Relative to endgame exploit, some + Alchemy/Smithing items exist, but those enchants cannot be learned, and no recipe to craft fortify enchantement potions exist, and hence the loop is broken.   
            
-Updated : 2021-07-22        
+Updated : 2021-11-13     
 
 Notes : Mods are in the order they need to override each others files. See at the bottom for load order.
 
@@ -506,6 +506,8 @@ OSex
 OSex_BadGirlsOfSkyrim   
 OSex_DuaWield   
 OSex_WizardSex   
+             
+NB : This mode add a "controllable sex" interface in skyrim. Use your numpad to navigate it's menus.         
    
 ### Flower Girls SE and VR   
 https://www.nexusmods.com/skyrimspecialedition/mods/5941   
@@ -601,6 +603,7 @@ Valerica SSE => Unp, Red, Black, Wrinkles
 
 ### Bijin All in One 2020
 https://www.nexusmods.com/skyrimspecialedition/mods/11      
+https://drive.google.com/file/d/1q74UUSZqQnhuZGhjcs4v7Saa-qeZ94Wl/view?usp=sharing       
 Bijin AIO 2020 - Serana Valerica - AI Overhaul    
 
 ### Cicero Female SE
@@ -621,10 +624,12 @@ Elisabeth Elisif replacer
 
 ### Sybille Stentor Awakened SE 1.0
 https://schaken-mods.com/file/118-sybille-stentor-awakened-se/   
+https://drive.google.com/file/d/1rwIhlCsM_pv_5UwFSIqSYoOqvV7SFKeE/view?usp=sharing          
 Sybille Awakened.7z    
 
 ### Nether's Karliah
 https://www.nexusmods.com/skyrimspecialedition/mods/49334   
+https://drive.google.com/file/d/1wHUDl2ssjXVZKCcGhmuYeigknHXgm7JU/view?usp=sharing
 Nether's Karliah - Universal Installer (LE or SSE) => Special edition, Nether's Karilah, Default x2, UNP, AFT  
    
 Solve conflicts by clicking on After all on    
@@ -649,16 +654,81 @@ Sofia Follower High Poly Heads-Sofia Alt Hair-Blond - Overwrite when asked
 
 ### Legacy of the Dragonborn Patches (Official)
 https://www.nexusmods.com/skyrimspecialedition/mods/30980   
-Legacy of the Dragonborn Patches (Official)  => Autodetect setup except last : pick SMIM and Skyrim 2018   
+Legacy of the Dragonborn Patches (Official)  => Autodetect setup except last : pick SMIM and Skyrim 2018    
 
-Solve conflicts by clicking on After all on Legacy of the Dragonborn Patches (Official)    
+Solve conflicts by clicking on After all on Legacy of the Dragonborn Patches (Official)     
 
 ### kryptopyr's Patch Hub
-https://www.nexusmods.com/skyrimspecialedition/mods/19518   
+https://www.nexusmods.com/skyrimspecialedition/mods/19518     
 kryptopyr's Patch Hub Installer
 
 ## COOM :  
 
+Everything below simply add more COOM to the game, not gameplay per say.   
+
+### UIExtensions
+https://www.nexusmods.com/skyrimspecialedition/mods/17561
+UIExtensions v1-2-0
+
+### JContainers SE
+https://www.nexusmods.com/skyrimspecialedition/mods/16495     
+JContainers SE     
+    
+### ConsoleUtilSSE
+https://www.nexusmods.com/skyrimspecialedition/mods/24858     
+ConsoleUtilSSE    
+    
+### iWant Widgets
+https://www.nexusmods.com/skyrimspecialedition/mods/36457         
+iWant Widgets       
+    
+### OStim - OSex overhaul and API
+https://www.nexusmods.com/skyrimspecialedition/mods/40725   
+OStim      
+NB : This mod add a "controllable sex" interface in skyrim. Use your numpad to navigate it's menus.    
+
+### OCum
+https://www.nexusmods.com/skyrimspecialedition/mods/45990         
+OCum      
+
+### OVirginity
+https://www.nexusmods.com/skyrimspecialedition/mods/45563
+OVirginity
+
+### ORomance
+https://www.nexusmods.com/skyrimspecialedition/mods/48564
+ORomance             
+Press "k" during gameplay to interact with an NPC with this mod installed.      
+
+### Billyy Lesbian Animation Pack for OStim
+https://www.nexusmods.com/skyrimspecialedition/mods/47584
+Billyy Lesbian Animation Pack      
+
+### Billyy Threesome Animation Pack for OStim
+https://www.nexusmods.com/skyrimspecialedition/mods/45082
+OStim-OSex 3P Animations         
+
+### Nibbles Animation Pack for OStim
+https://www.nexusmods.com/skyrimspecialedition/mods/49138        
+Nibbles' Animations for OStim        
+
+### OSearch  
+https://www.nexusmods.com/skyrimspecialedition/mods/43018   
+OSearch
+
+### OHeels
+https://www.nexusmods.com/skyrimspecialedition/mods/53748   
+OHeels
+
+### OTrainers - OStim trainers with benefits
+https://www.nexusmods.com/skyrimspecialedition/mods/52463   
+OTrainers 2.0
+        
+### Unofficial OSex Bug Patch
+https://www.nexusmods.com/skyrimspecialedition/mods/47584   
+Unofficial OSex Bug Patch             
+Overwrite all existing files             
+        
 
 # File Conflicts
 
@@ -710,7 +780,9 @@ Sofia Follower v.2.51 (Loose)
 Sofia The Funny Fully Voiced Follower - High Poly Heads - ESL   
 Sofia Follower High Poly Heads-Sofia Alt Hair-Blond - Overwrite when asked    
 Legacy of the Dragonborn Patches (Official)   
-    
+Bilyy Lesbian Animation Pack        
+Billyy Threesome Animation Pack for OStim      
+Unofficial OSex Bug Patch      
 
 
 # End setup
