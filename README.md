@@ -85,11 +85,13 @@ https://www.nexusmods.com/skyrimspecialedition/mods/13048
 PapyrusUtil SE - Scripting Utility Functions   
 
 ### SkyUI   
-https://www.nexusmods.com/skyrimspecialedition/mods/12604   
+https://www.nexusmods.com/skyrimspecialedition/mods/12604     
+https://drive.google.com/file/d/1T74_1_0RBX3yJ26XEoOH_o5D8D7Y1gWc/view?usp=sharing        
 SkyUI_5_2_SE   
 
 ### SkyUI SE - Flashing Savegames Fix
-https://www.nexusmods.com/skyrimspecialedition/mods/20406/   
+https://www.nexusmods.com/skyrimspecialedition/mods/20406/     
+https://drive.google.com/file/d/1Ee0GC794_2ynVd1bWcLH-KYri4KsJkab/view?usp=sharing            
 SkyUI SE - Flashing Savegames Fix   
 
 ### Unofficial Skyrim Special Edition Patch
@@ -98,36 +100,44 @@ https://drive.google.com/file/d/128thfnDpdpdCfp5PGqMLRswwW9J_5p-S/view?usp=shari
 Unofficial Skyrim Special Edition Patch            
 
 ### Cutting Room Floor - SSE
-https://www.nexusmods.com/skyrimspecialedition/mods/276   
+https://www.nexusmods.com/skyrimspecialedition/mods/276    
+https://drive.google.com/file/d/1J0mkcnDabZtz_qNXQSmCuaZchf2FTCrX/view?usp=sharing          
 Cutting Room Floor
 
 ### Open Cities Skyrim - SSE
 https://www.nexusmods.com/skyrimspecialedition/mods/281   
+https://drive.google.com/file/d/1lPZIZwyYRTDTg6Q7iXUadnisXsE056vt/view?usp=sharing           
 Open Cities Skyrim    
 
 ### Castle Volkihar Rebuilt - SSE
 https://www.nexusmods.com/skyrimspecialedition/mods/324       
+https://drive.google.com/file/d/1_xeNuQrEJLrXO54kh_CTMOD38mubB1PI/view?usp=sharing            
 Castle Volkihar Rebuilt   
 
 ### Point The Way   
-https://www.nexusmods.com/skyrimspecialedition/mods/352   
+https://www.nexusmods.com/skyrimspecialedition/mods/352     
+https://drive.google.com/file/d/1yf1EIcEg2UT5rswLKz5Hk5FW3_-Mcb5p/view?usp=sharing         
 Point The Way   
 
 ### The Paarthurnax Dilemma   
 https://www.nexusmods.com/skyrimspecialedition/mods/365    
+https://drive.google.com/file/d/1Eh6ht6X9wdI8oPnoidDg7xN2ki0Ct2NE/view?usp=sharing       
 The Paarthurnax Dilemma
 
 ### Dawnguard Map Markers   
-https://www.nexusmods.com/skyrimspecialedition/mods/20931   
+https://www.nexusmods.com/skyrimspecialedition/mods/20931     
+https://drive.google.com/file/d/11FJCsaYjwvzt4Ec6nkOjLQACo8DVMoHe/view?usp=sharing         
 Dawnguard Map Markers               
 
 ### Fuz Ro D-oh - Silent Voice
-https://www.nexusmods.com/skyrimspecialedition/mods/15109   
+https://www.nexusmods.com/skyrimspecialedition/mods/15109     
+https://drive.google.com/file/d/1y8rORppNliMGIbx1OLIzEAmp8B-hQndp/view?usp=sharing      
 Fuz Ro D'oh   
 
 ### Odin - Skyrim Magic Overhaul   
-https://www.nexusmods.com/skyrimspecialedition/mods/46000   
-Odin 1.8.0   
+https://www.nexusmods.com/skyrimspecialedition/mods/46000     
+https://drive.google.com/file/d/1-fQ7lUw_pn00WI3iyiENCrjmrIHrOiNL/view?usp=sharing        
+Odin 1.9.0   
 
 ### Ordinator - Perks of Skyrim
 https://www.nexusmods.com/skyrimspecialedition/mods/1137         
