@@ -93,8 +93,9 @@ https://www.nexusmods.com/skyrimspecialedition/mods/20406/
 SkyUI SE - Flashing Savegames Fix   
 
 ### Unofficial Skyrim Special Edition Patch
-https://www.nexusmods.com/skyrimspecialedition/mods/266    
-Unofficial Skyrim Special Edition Patch
+https://www.nexusmods.com/skyrimspecialedition/mods/266               
+https://drive.google.com/file/d/128thfnDpdpdCfp5PGqMLRswwW9J_5p-S/view?usp=sharing               
+Unofficial Skyrim Special Edition Patch            
 
 ### Cutting Room Floor - SSE
 https://www.nexusmods.com/skyrimspecialedition/mods/276   
@@ -645,6 +646,9 @@ Solve conflicts by clicking on After all on Legacy of the Dragonborn Patches (Of
 ### kryptopyr's Patch Hub
 https://www.nexusmods.com/skyrimspecialedition/mods/19518   
 kryptopyr's Patch Hub Installer
+
+## COOM :  
+
 
 # File Conflicts
 
