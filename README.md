@@ -29,7 +29,7 @@ https://www.nexusmods.com/skyrimspecialedition/mods/5031
 Save cleaner.
 
 ### Xedit
-https://github.com/TES5Edit/TES5Edit/releases/tag/xedit-4.0.3
+[https://github.com/TES5Edit/TES5Edit/releases/tag/xedit-4.0.4](https://github.com/TES5Edit/TES5Edit/releases/tag/xedit-4.0.4)
            
  ## Mods/tools needing some manual install work 
  
