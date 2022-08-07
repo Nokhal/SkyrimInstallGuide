@@ -44,7 +44,7 @@ Package editor
 ### Fores New Idles in Skyrim SE - FNIS SE   
 https://www.nexusmods.com/skyrimspecialedition/mods/3038   
 [FNIS Behavior SE 7_6](https://nokhal-skyrim.s3.eu-west-2.amazonaws.com/FNIS+Behavior+SE+7_6-3038-7-6-1582048023.7z)   
-[FNIS Behavior SE 7_6 XXL](https://nokhal-skyrim.s3.eu-west-2.amazonaws.com/FNIS+Behavior+SE+7_6+XXL-3038-7-6-1582110624.7z)            
+[FNIS Behavior SE 7_6 XXL](https://nokhal-skyrim.s3.eu-west-2.amazonaws.com/FNIS+Behavior+SE+7_6+XXL-3038-7-6-1582110624.7z) Override above files.           
 [FNIS Creature Pack SE 7.6](https://nokhal-skyrim.s3.eu-west-2.amazonaws.com/FNIS+Creature+Pack+SE+7.6-3038-7-6-1582049490.7z)   
 [FNIS Spells SE 7.0](https://nokhal-skyrim.s3.eu-west-2.amazonaws.com/FNIS+Spells+SE+7.0-3038-7-0.zip)     
    
