@@ -50,3 +50,9 @@ https://www.nexusmods.com/skyrimspecialedition/mods/3038
    
 Configure it in Vortex, then to run every time the load order is changed.   
 
+### SSE Engine Fixes (skse64 plugin)
+https://www.nexusmods.com/skyrimspecialedition/mods/17230               
+Download and install part 1 with vortex normally, manually download and extract part 2 at the root of your Skyrim folder        
+[Part 1]()
+[Part2]()
+
