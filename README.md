@@ -56,3 +56,7 @@ Download and install part 1 with vortex normally, manually download and extract 
 [Part 1]()
 [Part2]()
 
+
+Parallax shader Fix :
+[Mod](https://nokhal-skyrim.s3.eu-west-2.amazonaws.com/SSE+Parallax+Shader+Fix+v1.01+(BETA)+for+1.6.xxx+Updated-66284-1-01-ae-1649582863.7z)
+[DLL]()
