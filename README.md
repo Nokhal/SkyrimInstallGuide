@@ -8,3 +8,9 @@ Relative to endgame exploit, some + Alchemy/Smithing items exist, but those ench
 Updated : 2022-08-07
 
 Notes : Mods are in the order they need to override each others files. See at the bottom for load order.
+
+## Prerequisite
+
+### Skyrim Special Edition, Anniversary Edition update.        
+https://steamcommunity.com/app/489830/             
+Install it, run it at least once, set settings to ultra and display subtitles. Guide built for version 1.6.353
