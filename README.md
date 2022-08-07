@@ -1,5 +1,7 @@
 # SkyrimInstallGuide
 
+This is for my personal use.        
+
 Goal : Lore friendly, lots of content, maidens to seduce, no HP sponge all build are valid combat but you are still gonna die from time to time.           
 By combining MLU, Ordinator, Wildcat and an explosive player power gain trough unccapper, players start weak but able to tackle the first few dungeons if they are careful while endgame progress will not slow down to a crawl and will not require resetting skills.   
 
@@ -24,6 +26,6 @@ https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-d
 
 ### FallrimTools - Script cleaner and more
 https://www.nexusmods.com/skyrimspecialedition/mods/5031   
-https://nokhal-skyrim.s3.eu-west-2.amazonaws.com/ReSaver+6.0.310-5031-6-0-310-1596094178.7z
+https://nokhal-skyrim.s3.eu-west-2.amazonaws.com/ReSaver+6.0.310-5031-6-0-310-1596094178.7z                 
 Save cleaner.
 
