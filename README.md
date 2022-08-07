@@ -24,6 +24,14 @@ Once skyrim has be installed, install vortex and learn how to use it
 ### Microsoft Visual C++ Redistributable for Visual Studio 2019
 https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads
 
+ ## Mods/tools needing some manual install work             
+
+ ### SKSE64        
+https://skse.silverlock.org        
+[Mirror](https://nokhal-skyrim.s3.eu-west-2.amazonaws.com/skse64_2_01_05+Mirror.7z)
+Download the SE version 7z archive, extract next to SkyrimSE.exe. Configure vortex to run it by default.   
+
+              
 ### FallrimTools - Script cleaner and more
 https://www.nexusmods.com/skyrimspecialedition/mods/5031   
 [Mirror](https://nokhal-skyrim.s3.eu-west-2.amazonaws.com/ReSaver+6.0.310-5031-6-0-310-1596094178.7z)              
