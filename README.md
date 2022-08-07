@@ -14,3 +14,16 @@ Notes : Mods are in the order they need to override each others files. See at th
 ### Skyrim Special Edition, Anniversary Edition update.        
 https://steamcommunity.com/app/489830/             
 Install it, run it at least once, set settings to ultra and display subtitles. Guide built for version 1.6.353
+
+### Vortex + Nexusmods Account
+https://www.nexusmods.com/about/vortex/          
+Once skyrim has be installed, install vortex and learn how to use it     
+
+### Microsoft Visual C++ Redistributable for Visual Studio 2019
+https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads
+
+### FallrimTools - Script cleaner and more
+https://www.nexusmods.com/skyrimspecialedition/mods/5031   
+https://nokhal-skyrim.s3.eu-west-2.amazonaws.com/ReSaver+6.0.310-5031-6-0-310-1596094178.7z
+Save cleaner.
+
