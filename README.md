@@ -30,14 +30,23 @@ https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-d
 https://skse.silverlock.org        
 [Mirror](https://nokhal-skyrim.s3.eu-west-2.amazonaws.com/skse64_2_01_05+Mirror.7z)            
 Download the AE version 7z archive, extract next to SkyrimSE.exe. Configure vortex to run it by default.   
-
-              
+               
 ### FallrimTools - Script cleaner and more
 https://www.nexusmods.com/skyrimspecialedition/mods/5031   
 [Mirror](https://nokhal-skyrim.s3.eu-west-2.amazonaws.com/ReSaver+6.0.310-5031-6-0-310-1596094178.7z)              
-Save cleaner. Require Java 8+.
-
+Save cleaner. Require Java 8+.         
+             
 ### SSEedit
 https://www.nexusmods.com/skyrimspecialedition/mods/164                    
 [Mirror](https://nokhal-skyrim.s3.eu-west-2.amazonaws.com/SSEEdit+4.0.4+Installable.7z)      
-Package editor
+Package editor        
+   
+### Fores New Idles in Skyrim SE - FNIS SE   
+https://www.nexusmods.com/skyrimspecialedition/mods/3038   
+[FNIS Behavior SE 7_6](https://nokhal-skyrim.s3.eu-west-2.amazonaws.com/FNIS+Behavior+SE+7_6-3038-7-6-1582048023.7z)   
+[FNIS Behavior SE 7_6 XXL](https://nokhal-skyrim.s3.eu-west-2.amazonaws.com/FNIS+Behavior+SE+7_6+XXL-3038-7-6-1582110624.7z)            
+[FNIS Creature Pack SE 7.6](https://nokhal-skyrim.s3.eu-west-2.amazonaws.com/FNIS+Creature+Pack+SE+7.6-3038-7-6-1582049490.7z)   
+[FNIS Spells SE 7.0](https://nokhal-skyrim.s3.eu-west-2.amazonaws.com/FNIS+Spells+SE+7.0-3038-7-0.zip)     
+   
+Configure it in Vortex, then to run every time the load order is changed.   
+
