@@ -26,10 +26,10 @@ https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-d
 
 ### FallrimTools - Script cleaner and more
 https://www.nexusmods.com/skyrimspecialedition/mods/5031   
-[https://nokhal-skyrim.s3.eu-west-2.amazonaws.com/ReSaver+6.0.310-5031-6-0-310-1596094178.7z](Mirror)                 
+[Mirror](https://nokhal-skyrim.s3.eu-west-2.amazonaws.com/ReSaver+6.0.310-5031-6-0-310-1596094178.7z)              
 Save cleaner. Require Java 8+.
 
 ### SSEedit
 https://www.nexusmods.com/skyrimspecialedition/mods/164                    
-[[https://nokhal-skyrim.s3.eu-west-2.amazonaws.com/ReSaver+6.0.310-5031-6-0-310-1596094178.7z](https://nokhal-skyrim.s3.eu-west-2.amazonaws.com/SSEEdit+4.0.4+Installable.7z)](Mirror)       
+[Mirror](https://nokhal-skyrim.s3.eu-west-2.amazonaws.com/SSEEdit+4.0.4+Installable.7z)      
 Package editor
