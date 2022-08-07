@@ -28,8 +28,8 @@ https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-d
 
  ### SKSE64        
 https://skse.silverlock.org        
-[Mirror](https://nokhal-skyrim.s3.eu-west-2.amazonaws.com/skse64_2_01_05+Mirror.7z)
-Download the SE version 7z archive, extract next to SkyrimSE.exe. Configure vortex to run it by default.   
+[Mirror](https://nokhal-skyrim.s3.eu-west-2.amazonaws.com/skse64_2_01_05+Mirror.7z)            
+Download the AE version 7z archive, extract next to SkyrimSE.exe. Configure vortex to run it by default.   
 
               
 ### FallrimTools - Script cleaner and more
