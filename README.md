@@ -35,4 +35,12 @@ You need the latest Anniversary edition.
 Open the archive, and drags and drop it's content at the root of the skyrim game folder, next to the game .exe files     
 ![Copy the archive content at the root](https://drive.google.com/uc?id=1wZX5SRcOzTWviEByDnZCX9dxjhzVz4EV)      
 
+In vortex, go to the skyrim dashboard, and then click the ( + ) icon within the tools dashlet.            
+![Dashboard](https://drive.google.com/uc?id=16s83ZzmYv31P-U0cxbYJbuAB5fz2FAZf)    
+
+Select new, and then fill in the form with the following values : 
+Name : SKSE
+Target : SKYRIM_ROOT_FOLDER\skse64_loader.exe
+You can click on the Icon and pick the skyrim exe for the icon if you wish.
+![ConfSkse](https://drive.google.com/uc?id=1CqydznTW5Pcw3rRhvvSQvm4LQxZDZJzT)  
 
