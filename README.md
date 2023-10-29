@@ -53,7 +53,9 @@ You can click on the Icon and pick the skyrim exe for the icon if you wish.
 Finally, click on the hamburger menu of the SKSE Tools tile, and select Set as Primary. Enable the toolbar.  
  ![Toolbaring](https://drive.google.com/uc?id=1epVnqroHlj2hHAV0vA6uPGfS-mftvTql)        
 
-
+Launch skyrim using the new tool shortcut to check if everything worked. You should not see the launcher anymore, the game should start straight up.          
+In the future, only use vortex or a shortcut to skse64_loader.exe to launch skyrim. If you don't, mods will break.            
+           
 
             
 
