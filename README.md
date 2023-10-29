@@ -19,10 +19,10 @@ You can start the game now if you want for the Skyrim - Anniversary Edition comp
    
 Create an account on https://www.nexusmods.com   
    
-Download [Vortex Mod Manager](https://www.nexusmods.com/about/vortex/)
-Install it on the same drive as Skyrim.
-Launch it, and let it detect/manually setup Skyrim AE installation folder.
-Then, and that's very important, setup Vortex **Mod Staging Folder** to be in the **SAME DRIVE AS SKYRIM**. For that create a new folder in your drive and then pickup this folder from vortex.
+Download [Vortex Mod Manager](https://www.nexusmods.com/about/vortex/)                
+Install it on the same drive as Skyrim.                
+Launch it, and let it detect/manually setup Skyrim AE installation folder.              
+Then, and that's very important, setup Vortex **Mod Staging Folder** to be in the **SAME DRIVE AS SKYRIM**. For that purpose create a new folder in your drive and then pickup this folder from vortex.                  
 ![Staging](https://drive.google.com/uc?id=17AtbueW7tl3KlcUvmdQDSgT4kxxEJyKD)
 
 
