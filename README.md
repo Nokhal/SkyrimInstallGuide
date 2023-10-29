@@ -6,7 +6,8 @@ This is intended to be semi retard proof. Basic profficency with a computer is e
 
 [1: Buying and installing the game](#1-buying-and-installing-the-game)                
 [2: Setting up the modding framework](#2-setting-up-the-modding-framework)                     
-[3: Installing the Script Injector](#3-installing-the-script-injector)               
+[3: Installing the Script Injector](#3-installing-the-script-injector)         
+[4: Installing ENB](#4-installing-enb)         
 
 ## 1: Buying and installing the game 
   
@@ -56,6 +57,10 @@ Finally, click on the hamburger menu of the SKSE Tools tile, and select Set as P
 Launch skyrim using the new tool shortcut to check if everything worked. You should not see the launcher anymore, the game should start straight up.          
 In the future, only use vortex or a shortcut to skse64_loader.exe to launch skyrim. If you don't, mods will break.            
            
-
+## 4: Installing ENB   
+   
+Similary to apps function call that can be hijacked on PC, the rendering pipeline can also be modified. 
+The most popular software allowing to do that for skyrim is called ENB. You can download it [here](http://enbdev.com/download_mod_tesskyrimse.html).     
+[Direct link to archive]([http://enbdev.com/download_mod_tesskyrimse.html](http://enbdev.com/enbseries_skyrimse_v0494.zip)http://enbdev.com/enbseries_skyrimse_v0494.zip)
             
 
