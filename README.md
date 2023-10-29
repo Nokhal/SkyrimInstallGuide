@@ -60,7 +60,12 @@ In the future, only use vortex or a shortcut to skse64_loader.exe to launch skyr
 ## 4: Installing ENB   
    
 Similary to apps function call that can be hijacked on PC, the rendering pipeline can also be modified. 
-The most popular software allowing to do that for skyrim is called ENB. You can download it [here](http://enbdev.com/download_mod_tesskyrimse.html).     
-[Direct link to archive]([http://enbdev.com/download_mod_tesskyrimse.html](http://enbdev.com/enbseries_skyrimse_v0494.zip)http://enbdev.com/enbseries_skyrimse_v0494.zip)
+The most popular software allowing to do that for skyrim is called ENB. You can download it [here](http://enbdev.com/download_mod_tesskyrimse.html).      
+[Direct link to archive](http://enbdev.com/enbseries_skyrimse_v0494.zip)         
             
+Inside the archive, navigate to the WrapperVersion folder, and extract d3d11.dll, d3dcompiler_46e.dll to the root of your skyrim install.
+Finally, click on the hamburger menu of the SKSE Tools tile, and select Set as Primary. Enable the toolbar.  
+ ![Extract the ENB binaries to the root](https://drive.google.com/uc?id=1Tr4jGSF1qw4onYjbEhMpDsrGJ0FTIDCR)     
+
+ 
 
