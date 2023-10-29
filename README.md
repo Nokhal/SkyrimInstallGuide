@@ -1,6 +1,6 @@
 # SkyrimInstallGuide
 
-This is intended to be semi retard proof.
+This is intended to be semi retard proof. Basic profficency with a computer is expected (Opening archives, knowing what a root folder is, etc...)          
 
 ## Buying and installing the game 
   
@@ -25,5 +25,14 @@ Launch it, and let it detect/manually setup Skyrim AE installation folder.
 Then, and that's very important, setup Vortex **Mod Staging Folder** to be in the **SAME DRIVE AS SKYRIM**. For that purpose create a new folder in your drive and then pickup this folder from vortex.                  
 ![Staging](https://drive.google.com/uc?id=17AtbueW7tl3KlcUvmdQDSgT4kxxEJyKD)
 
+## Installing the Script Injector
+    
+Because you are on PC, any function call made by a software can be intercepted, monitored and modified. Skyrim Script Extender (SKSE) extend the base functions of the skyrim app and unlock a lot of advanced features for mods that would otherwise would not be possible. As such, nearly every modlist for PC you'll find will require SKSE.       
+       
+Download SKSE [here](https://skse.silverlock.org).            
+You need the latest Anniversary edition.        
+[Direct link](https://skse.silverlock.org/beta/skse64_2_02_03.7z)                
+Open the archive, and drags and drop it's content at the root of the skyrim game folder, next to the game .exe files     
+![Copy the archive content at the root](https://drive.google.com/uc?id=1wZX5SRcOzTWviEByDnZCX9dxjhzVz4EV)      
 
 
