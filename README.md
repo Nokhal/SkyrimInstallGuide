@@ -1,6 +1,12 @@
 # SkyrimInstallGuide
 
-This is intended to be semi retard proof. Basic profficency with a computer is expected (Opening archives, knowing what a root folder is, etc...)          
+This is intended to be semi retard proof. Basic profficency with a computer is expected (Opening archives, knowing what a root folder is, etc...)        
+
+## Table of Contents : 
+
+1: Buying and installing the game          
+2: Setting up the modding framework           
+3: Installing the Script Injector     
 
 ## 1: Buying and installing the game 
   
@@ -15,7 +21,7 @@ The download will take some time. Once completed, skyrim will ask to reload the 
 
 You can start the game now if you want for the Skyrim - Anniversary Edition completely vanilla experience. (No Mods outside of the paid one of anniversary edition).
 
-## 2: Setting up the modding framework.   
+## 2: Setting up the modding framework   
    
 Create an account on https://www.nexusmods.com   
    
@@ -38,9 +44,16 @@ Open the archive, and drags and drop it's content at the root of the skyrim game
 In vortex, go to the skyrim dashboard, and then click the ( + ) icon within the tools dashlet.            
 ![Dashboard](https://drive.google.com/uc?id=16s83ZzmYv31P-U0cxbYJbuAB5fz2FAZf)    
 
-Select new, and then fill in the form with the following values : 
-Name : SKSE
-Target : SKYRIM_ROOT_FOLDER\skse64_loader.exe
-You can click on the Icon and pick the skyrim exe for the icon if you wish.
-![ConfSkse](https://drive.google.com/uc?id=1CqydznTW5Pcw3rRhvvSQvm4LQxZDZJzT)  
+Select new, and then fill in the form with the following values :             
+Name : SKSE                  
+Target : REPLACE_THIS_WITH_SKYRIM_ROOT_FOLDER\skse64_loader.exe                        
+You can click on the Icon and pick the skyrim exe for the icon if you wish.                          
+![ConfSkse](https://drive.google.com/uc?id=1CqydznTW5Pcw3rRhvvSQvm4LQxZDZJzT)              
+              
+Finally, click on the hamburger menu of the SKSE Tools tile, and select Set as Primary. Enable the toolbar.  
+ ![Toolbaring](https://drive.google.com/uc?id=1epVnqroHlj2hHAV0vA6uPGfS-mftvTql)        
+
+
+
+            
 
