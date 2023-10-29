@@ -63,10 +63,9 @@ Similary to apps function call that can be hijacked on PC, the rendering pipelin
 The most popular software allowing to do that for skyrim is called ENB. You can download it [here](http://enbdev.com/download_mod_tesskyrimse.html).      
 [Direct link to archive](http://enbdev.com/enbseries_skyrimse_v0494.zip)         
             
-Inside the archive, navigate to the WrapperVersion folder, and extract d3d11.dll, d3dcompiler_46e.dll to the root of your skyrim install.
-Finally, click on the hamburger menu of the SKSE Tools tile, and select Set as Primary. Enable the toolbar.  
+Inside the archive, navigate to the WrapperVersion folder, and extract d3d11.dll, d3dcompiler_46e.dll to the root of your skyrim install. 
  ![Extract the ENB binaries to the root](https://drive.google.com/uc?id=1Tr4jGSF1qw4onYjbEhMpDsrGJ0FTIDCR)     
 
  
-You can launch the game again to check if the installation worked. The game will take longer to load, but you should see a message on the top left of your screen for a few second.
+You can launch the game again to check if the installation worked. The game will take longer to load, but you should see a message on the top left of your screen for a few second.                                 
  ![ENB Installed](https://drive.google.com/uc?id=1uInMIFYameBTmEQy9f7psYQ2YurJxcj9)    
