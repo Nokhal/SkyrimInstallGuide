@@ -4,9 +4,9 @@ This is intended to be semi retard proof. Basic profficency with a computer is e
 
 ## Table of Contents : 
 
-[1: Buying and installing the game](/#3-installing-the-script-injector)                
-[2: Setting up the modding framework](/#3-installing-the-script-injector)                     
-[3: Installing the Script Injector](/#3-installing-the-script-injector)               
+[1: Buying and installing the game](#3-installing-the-script-injector)                
+[2: Setting up the modding framework](#3-installing-the-script-injector)                     
+[3: Installing the Script Injector](#3-installing-the-script-injector)               
 
 ## 1: Buying and installing the game 
   
