@@ -68,4 +68,5 @@ Finally, click on the hamburger menu of the SKSE Tools tile, and select Set as P
  ![Extract the ENB binaries to the root](https://drive.google.com/uc?id=1Tr4jGSF1qw4onYjbEhMpDsrGJ0FTIDCR)     
 
  
-
+You can launch the game again to check if the installation worked. The game will take longer to load, but you should see a message on the top left of your screen for a few second.
+ ![ENB Installed](https://drive.google.com/uc?id=1uInMIFYameBTmEQy9f7psYQ2YurJxcj9)    
